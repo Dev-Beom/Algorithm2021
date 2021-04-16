@@ -1,92 +1,56 @@
 package com.javaps.B1406;
 
-import java.io.IOException;
-import java.util.*;
-
-enum Move {
-    RIGHT, LEFT
-}
+import java.io.*;
+import java.util.Stack;
+import java.util.StringTokenizer;
 
 public class Main {
 
-    //  linked list
-    private static final LinkedList<Character> data = new LinkedList<>();
-    private static int cursor;
-
-    public static void displayData() {
-        data.forEach(System.out::print);
-        System.out.println();
-    }
-
-    public static void cursorMove(Move move) {
-        if (move.equals(Move.RIGHT)) {
-            if (data.size() > cursor) {
-                System.out.println("right");
-                cursor++;
-            }
-        } else if (move.equals(Move.LEFT)) {
-            if (0 < cursor) {
-                System.out.println("left");
-                cursor--;
-            }
-        }
-        System.out.println("cursor now = " + cursor + ", cursor data = " + data.get(cursor));
-
-    }
-
-    public static void insertChar(Character character) {
-        System.out.println("insertChar() " + character);
-    }
-
-    public static void deleteChar() {
-        if (0 < cursor) {
-            System.out.println("deleteChar()");
-            data.remove(cursor - 1);
-            cursor--;
-        }
-    }
-
-    public static void commandLineReader(String line) {
-        line.chars().forEach(x -> {
-            boolean isInsert = false;
-            if (x == (int) 'L') {
-                cursorMove(Move.LEFT);
-            } else if (x == (int) 'R') {
-                cursorMove(Move.RIGHT);
-            } else if (x == (int) 'B') {
-                deleteChar();
-            } else if (x == (int) 'P') {
-                isInsert = true;
-            } else if (isInsert) {
-                insertChar((char) x);
-            }
-        });
-        displayData();
-    }
-
-
     public static void main(String[] args) throws IOException {
-        Scanner scanner = new Scanner(System.in);
-        int M = 0;
-        String command;
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(System.out));
 
-        // Init First line
-        String str = scanner.nextLine();
-        str.chars().forEach(x -> {
-            cursor++;
-            data.add((char) x);
-        });
-        data.forEach(System.out::println);
+        String str = reader.readLine();
 
-        try {
-            M = Integer.parseInt(scanner.nextLine());
-        } catch (NumberFormatException e) {
-            e.printStackTrace();
-        }
+        int M = Integer.parseInt(reader.readLine());
+
+        Stack<String> left = new Stack<>();
+        Stack<String> right = new Stack<>();
+
+//        str.chars().forEach(x -> left.push(String.valueOf((char) x)));
+
+        for (int i = 0; i < str.length(); i++)
+            left.push(str.substring(i, i+1));
 
         for (int i = 0; i < M; i++) {
-            command = scanner.nextLine();
-            commandLineReader(command);
+            StringTokenizer stringTokenizer = new StringTokenizer(reader.readLine());
+            String element = stringTokenizer.nextToken();
+            switch (element) {
+                case "L":
+                    if (!left.isEmpty())
+                        right.push(left.pop());
+                    break;
+                case "D":
+                    if (!right.isEmpty())
+                        left.push(right.pop());
+                    break;
+                case "B":
+                    if (!left.isEmpty())
+                        left.pop();
+                    break;
+                case "P":
+                    left.push(stringTokenizer.nextToken());
+                    break;
+            }
         }
+
+        while (!left.isEmpty())
+            right.push(left.pop());
+        while (!right.isEmpty())
+            writer.write(right.pop());
+
+        writer.flush();
+        writer.close();
     }
 }
+
