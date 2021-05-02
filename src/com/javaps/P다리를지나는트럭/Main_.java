@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Main {
+public class Main_ {
 
     public static void main(String[] args) throws IOException {
 
