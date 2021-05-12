@@ -16,7 +16,6 @@ public class Main {
 
         // MIN HEAP
         PriorityQueue<Integer> arrMin = new PriorityQueue<>();
-
         for (int i = 0; i < N; i++) {
             int input = Integer.parseInt(br.readLine());
             if (input > 0) {
@@ -26,7 +25,6 @@ public class Main {
                 arrMin.add(input);
             }
         }
-
         while (!arrMax.isEmpty()) {
             if (arrMax.size() > 1) {
                 int x = arrMax.poll();
@@ -42,6 +40,7 @@ public class Main {
                 sum += arrMax.poll();
             }
         }
+
         while (!arrMin.isEmpty()) {
             if (arrMin.size() > 1) {
                 int x = arrMin.poll();
