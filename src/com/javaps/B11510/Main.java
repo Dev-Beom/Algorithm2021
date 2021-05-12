@@ -8,40 +8,33 @@ public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
-        Queue<Integer> queue = new LinkedList<>();
 
         // TEST CASE
         int T = Integer.parseInt(st.nextToken());
 
         // VARIABLE INITIALIZE
-        LinkedList<Integer> result = new LinkedList<>();
+        long [] result = new long[T];
 
         for (int i = 0; i < T; i++) {
-            String tmp = br.readLine();
-            int N = Integer.parseInt(tmp);
-            int[] arr = new int[N];
-            int sum = 0;
+            int N = Integer.parseInt(br.readLine());
+            long[] stock = new long[N];
+            long max = 0;
             StringTokenizer tmpSt = new StringTokenizer(br.readLine());
 
             for (int j = 0; j < N; j++) {
-                int pushData = Integer.parseInt(tmpSt.nextToken());
-                queue.add(pushData);
-                arr[j] = pushData;
+                stock[j] = Integer.parseInt(tmpSt.nextToken());
             }
-            int pollCount = 0;
-            while (!queue.isEmpty()) {
-                int pollData = queue.poll();
-                int max = 0;
-                for (int j = pollCount; j < N; j++) {
-                    if (arr[j] > max) max = arr[j];
+
+            for (int j = N - 1; j >= 0; j--) {
+                if (stock[j] > max) {
+                    max = stock[j];
+                } else {
+                    result[i] += (max - stock[j]);
                 }
-                if (pollData < max) {
-                    sum += max - pollData;
-                }
-                pollCount++;
             }
-            result.add(sum);
         }
-        result.forEach(System.out::println);
+        for (long i : result) {
+            System.out.println(i);
+        }
     }
 }
