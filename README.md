@@ -1,4 +1,7 @@
 # Java-PS
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudqja8847)](https://solved.ac/dudqja8847/)
+
 - https://programmers.co.kr/learn/challenges?tab=all_challenges
 - https://www.acmicpc.net/
 
