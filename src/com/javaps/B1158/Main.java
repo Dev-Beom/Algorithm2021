@@ -6,7 +6,7 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) throws IOException {
-        // VARIABLe
+        // VARIABLE
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
         int N = Integer.parseInt(st.nextToken());
