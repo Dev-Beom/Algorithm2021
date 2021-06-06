@@ -22,8 +22,6 @@ public class Main {
         }
 
         // LOGIC
-        int pop;
-        int cnt = 0;
         for (int idx = 0; idx < N; idx++) {
             while (!stack.isEmpty() && sequence[stack.peek()] < sequence[idx]) {
                 sequence[stack.pop()] = sequence[idx];
