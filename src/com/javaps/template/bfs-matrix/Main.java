@@ -1,4 +1,3 @@
-package com.javaps.template.bfs;
 
 import java.io.IOException;
 import java.util.LinkedList;

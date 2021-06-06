@@ -18,7 +18,7 @@ public class Main {
 
     // SET VARIABLE
     static int N;
-    static int[][] arr;
+    static int[][] map;
     static boolean[][] isVisited;
     static int maxSafetyArea;
 
@@ -33,31 +33,70 @@ public class Main {
         // INIT VARIABLE
         N = Integer.parseInt(st.nextToken());
 
-        arr = new int[N][N];
+        map = new int[N][N];
         isVisited = new boolean[N][N];
 
         for (int i = 0; i < N; i++) {
             st = new StringTokenizer(br.readLine());
             for (int j = 0; j < N; j++) {
-                arr[i][j] = Integer.parseInt(st.nextToken());
+                map[i][j] = Integer.parseInt(st.nextToken());
                 isVisited[i][j] = false;
 
-                minOfInputValue = Math.min(minOfInputValue, arr[i][j]);
-                maxOfInputValue = Math.max(maxOfInputValue, arr[i][j]);
+                minOfInputValue = Math.min(minOfInputValue, map[i][j]);
+                maxOfInputValue = Math.max(maxOfInputValue, map[i][j]);
             }
         }
 
-        for (int precipitation = minOfInputValue; precipitation <= maxOfInputValue; precipitation++) {
-
-        }
-
-        for (int i = 0; i < N; i++) {
-            for (int j = 0; j < N; j++) {
-                System.out.print(arr[i][j]);
+        int[] dx = {-1, 0, 1, 0};
+        int[] dy = {0, 1, 0, -1};
+        System.out.println(minOfInputValue);
+        System.out.println(maxOfInputValue);
+        for (int precipitation = minOfInputValue; precipitation < maxOfInputValue; precipitation++) {
+            Queue<Node> queue = new LinkedList<>();
+            int area = 0;
+            for (int i = 0; i < N; i++) {
+                for (int j = 0; j < N; j++) {
+                    if (map[i][j] > precipitation || !isVisited[i][j]) {
+                        // 안전 영역 구하기
+                        area++;
+                        queue.add(new Node(i, j));
+                        isVisited[i][j] = true;
+                        while (!queue.isEmpty()) {
+                            Node node = queue.poll();
+                            for (int k = 0; k < 4; k++) {
+                                int x = node.x + dx[k];
+                                int y = node.y + dy[k];
+                                if (checkLocation(x, y, precipitation)) {
+                                    area++;
+                                    queue.add(new Node(x, y));
+                                    isVisited[x][y] = true;
+                                }
+                            }
+                        }
+                    }
+                }
             }
-            System.out.println();
+                System.out.println(area);
+            if (maxSafetyArea < area) {
+                maxSafetyArea = area;
+            }
+            for (int i = 0; i < N; i++) {
+                for (int j = 0; j < N; j++) {
+                    isVisited[i][j] = false;
+                }
+            }
+
         }
+        System.out.println(maxSafetyArea);
     }
 
-//    public static void bfs()
+    public static boolean checkLocation(int x, int y, int value) {
+        if (x < 0 || x >= N || y < 0 || y >= N) {
+            return false;
+        }
+        if (isVisited[x][y] || map[x][y] < value) {
+            return false;
+        }
+        return true;
+    }
 }
