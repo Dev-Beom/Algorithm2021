@@ -5,19 +5,21 @@
 - https://programmers.co.kr/learn/challenges?tab=all_challenges
 - https://www.acmicpc.net/
 
-2021년 6월 5일부터 ~ 2021년 9월 1일까지 (하루에  8~10시간)
+2021년 6월 5일부터 ~ 2021년 9월 1일까지 (하루에 8~10시간)
 
-하루에 평균 2 ~ 3 문제씩 ‼‼‼‼‼
+하루에 평균 2 ~ 3 문제씩 ‼‼‼‼‼ 개인당 200개 이상 
 
+인정 범위 및 최소 갯수
 백준(실5 ~ 골1) 122개  
 프로그래머스(1 ~ 3 level SQL 제외 java/python/c++) 85개  
 
 #### 9월 1일까지 해당 사항 달성 실패시 10만원빵🤲🤲🤲🤲🤲  
 
 ## 참여자  
-이영범(20210605~)  
-이은재(20210605~)  
-황상혁(20210606~)  
+이영범(20210605~) https://github.com/Sinlicon-Valley/Algorithm2021   
+이은재(20210605~) https://github.com/leesilverash/AlgorithmStudy   
+황상혁(20210606~) https://github.com/sshyukk/Algorithm-Study  
+전현구(20210607~) https://github.com/hyeongu95/Algorithm_2021  
 
 ### 푼 문제
 | 문제 | 제목 | 유형 | 비고 |
