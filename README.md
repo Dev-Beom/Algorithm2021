@@ -5,7 +5,7 @@
 - https://programmers.co.kr/learn/challenges?tab=all_challenges
 - https://www.acmicpc.net/
 
-2021년 6월 5일부터 ~ 2021년 9월 1일까지 (하루에 8~10시간)
+2021년 6월 5일부터 ~ 2021년 9월 1일까지
 
 하루에 평균 2 ~ 3 문제씩 ‼‼‼‼‼ 개인당 200개 이상 
 
