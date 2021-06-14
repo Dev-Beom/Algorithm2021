@@ -1,10 +1,10 @@
-package com.javaps.Template.BFS_Graph;
+package com.javaps.Template.Graph_Adjacency_Matrix_Search;
+
+// 그래프 인접 행렬 탐색
 
 /*
-
 입력 값:
-7
-8
+7 8
 1 2
 1 3
 2 4
@@ -13,7 +13,6 @@ package com.javaps.Template.BFS_Graph;
 4 6
 5 6
 6 7
-
  */
 
 import java.io.*;
@@ -29,8 +28,9 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        N = Integer.parseInt(br.readLine());
-        M = Integer.parseInt(br.readLine());
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        N = Integer.parseInt(st.nextToken());
+        M = Integer.parseInt(st.nextToken());
 
         map = new int[N + 1][M + 1];
         visited = new boolean[N + 1];
@@ -44,8 +44,16 @@ public class Main {
             map[start][end] = 1;
             map[end][start] = 1;
         }
+        start = 1;
+
+        System.out.println("그래프 DFS 방문 순서 : ");
+        dfs(start);
+        System.out.println();
+
+        Arrays.fill(visited, false);
+
         System.out.println("그래프 BFS 방문 순서 : ");
-        bfs(1);
+        bfs(start);
     }
 
     static void bfs(int point) {
@@ -63,6 +71,18 @@ public class Main {
                     queue.offer(i);
                     visited[i] = true;
                 }
+            }
+        }
+    }
+
+    static void dfs(int point) {
+        visited[point] = true;
+        System.out.print(point + " ");
+
+        for (int i = 1; i <= N; i++) {
+
+            if(map[point][i] == 1 && !visited[i]) {
+                dfs(i);
             }
         }
     }
