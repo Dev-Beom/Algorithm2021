@@ -16,13 +16,13 @@
 #### 9월 1일까지 해당 사항 달성 실패시 10만원빵🤲🤲🤲🤲🤲  
 
 ## 참여자  
-이영범(20210605~0901) https://github.com/Sinlicon-Valley/Algorithm2021
-이은재(20210605~0901) https://github.com/leesilverash/AlgorithmStudy
-황상혁(20210606~0902) https://github.com/sshyukk/Algorithm-Study + 1일
-전현구(20210607~0903) https://github.com/hyeongu95/Algorithm_2021 + 2일
-권준상(20210609~0905) https://github.com/JunsangKwon/Algorithm_Study + 4일
-박준형(20210610~0906) https://github.com/Junbro0708/Algorithm_CPP + 5일
-이영훈(20210610~0906) https://github.com/dudgns5845/AlgorithmStudy + 5일
+이영범(20210605~0901) https://github.com/Sinlicon-Valley/Algorithm2021  
+이은재(20210605~0901) https://github.com/leesilverash/AlgorithmStudy  
+황상혁(20210606~0902) https://github.com/sshyukk/Algorithm-Study + 1일  
+전현구(20210607~0903) https://github.com/hyeongu95/Algorithm_2021 + 2일  
+권준상(20210609~0905) https://github.com/JunsangKwon/Algorithm_Study + 4일  
+박준형(20210610~0906) https://github.com/Junbro0708/Algorithm_CPP + 5일  
+이영훈(20210610~0906) https://github.com/dudgns5845/AlgorithmStudy + 5일  
 
 ### 푼 문제
 | 문제 | 제목 | 유형 | 비고 |
@@ -101,6 +101,7 @@
 |프로그래머스|가운데 글자 가져오기|문자열||
 |프로그래머스|키패드 누르기|구현|2020 카카오 인턴십|
 |프로그래머스|모의고사|완전탐색, 구현||
+|프로그래머스|로또의 최고 순위와 최저 순위|구현|2021 Dev-Matching: 웹 백엔드 개발자(상반기)|
 
 ### 못푼 문제
 | 문제 | 제목 | 유형 | 비고 |
