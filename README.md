@@ -16,13 +16,13 @@
 #### 9월 1일까지 해당 사항 달성 실패시 10만원빵🤲🤲🤲🤲🤲  
 
 ## 참여자  
-이영범(20210605~0901) https://github.com/Sinlicon-Valley/Algorithm2021  
-이은재(20210605~0901) https://github.com/leesilverash/AlgorithmStudy  
-황상혁(20210606~0902) https://github.com/sshyukk/Algorithm-Study + 1일  
-전현구(20210607~0903) https://github.com/hyeongu95/Algorithm_2021 + 2일  
-권준상(20210609~0905) https://github.com/JunsangKwon/Algorithm_Study + 4일  
-박준형(20210610~0906) https://github.com/Junbro0708/Algorithm_CPP + 5일  
-이영훈(20210610~0906) https://github.com/dudgns5845/AlgorithmStudy + 5일  
+이영범(20210605 ~ 0901) https://github.com/Sinlicon-Valley/Algorithm2021  
+이은재(20210605 ~ 0901) https://github.com/leesilverash/AlgorithmStudy  
+황상혁(20210606 ~ 0902) https://github.com/sshyukk/Algorithm-Study + 1일  
+전현구(20210607 ~ 0903) https://github.com/hyeongu95/Algorithm_2021 + 2일  
+권준상(20210609 ~ 0905) https://github.com/JunsangKwon/Algorithm_Study + 4일  
+박준형(20210610 ~ 0906) https://github.com/Junbro0708/Algorithm_CPP + 5일  
+이영훈(20210610 ~ 0906) https://github.com/dudgns5845/AlgorithmStudy + 5일  
 
 ### 푼 문제
 | 문제 | 제목 | 유형 | 비고 |
@@ -111,6 +111,7 @@
 |프로그래머스|음양 더하기|구현|월간 코드 챌린지 시즌 2|
 |프로그래머스|예산|그리디|Summer/Winter Coding(~2018)|
 |프로그래머스|체육복|그리디||
+|프로그래머스|약수의 개수와 덧셈|구현|월간 코드 챌린지 시즌 2|
 
 ### 못푼 문제
 | 문제 | 제목 | 유형 | 비고 |
