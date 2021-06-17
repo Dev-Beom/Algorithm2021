@@ -1,4 +1,5 @@
-package com.javaps;
+package com.javaps.P문자열내P와Y의개수;
+
 class Solution {
     public String solution(String[] seoul) {
         int idx = 0;

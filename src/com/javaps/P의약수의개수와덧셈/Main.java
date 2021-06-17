@@ -1,6 +1,6 @@
-package com.javaps;
+package com.javaps.P의약수의개수와덧셈;
 
-import java.util.*;
+import java.util.ArrayList;
 
 class Solution {
     public int solution(int left, int right) {

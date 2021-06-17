@@ -1,9 +1,9 @@
-package com.javaps;
+package com.javaps.P완주하지못한선수;
 
 import java.io.*;
 import java.util.*;
 
-public class P완주하지못한선수 {
+class P완주하지못한선수 {
     class Solution {
         public String solution(String[] participant, String[] completion) {
             String answer = "";
