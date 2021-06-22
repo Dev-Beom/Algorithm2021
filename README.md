@@ -1,17 +1,14 @@
 # Java-PS
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudqja8847)](https://solved.ac/dudqja8847/)
-
-- https://programmers.co.kr/learn/challenges?tab=all_challenges
-- https://www.acmicpc.net/
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudqja8847)](https://solved.ac/dudqja8847/)  
 
 2021년 6월 5일부터 ~ 2021년 9월 1일까지
 
 하루에 평균 2 ~ 3 문제씩 ‼‼‼‼‼ 개인당 200개 이상 
 
 인정 범위 및 최소 갯수
-백준(실5 ~ 골1) 122개  
-프로그래머스(1 ~ 3 level SQL 제외 java/python/c++) 85개  
+백준(실5 ~ 골1) **122개**  
+프로그래머스(1 ~ 3 level SQL 제외 java/python/c++) **85개**  
 
 #### 9월 1일까지 해당 사항 달성 실패시 10만원빵🤲🤲🤲🤲🤲  
 
@@ -25,8 +22,11 @@
 이영훈(20210610 ~ 0906) https://github.com/dudgns5845/AlgorithmStudy + 5일  
 
 ### 푼 문제
+<details>
+    <summary>백준</summary>
+
 | 문제 | 제목 | 유형 | 비고 |
-|------|------|------|------|
+|:------:|:------:|:------:|:------:|
 |백준 1003|피보나치 함수|DP|⁉|
 |백준 1010|다리 놓기|DP||
 |백준 1026|보물|정렬||
@@ -91,6 +91,14 @@
 |백준 15903|카드 합체 놀이|그리디, 우선순위 큐||
 |백준 11650|좌표 정렬하기|정렬||
 |백준 17298|오큰수|스택|💦|
+
+</details>
+
+<details>
+    <summary>프로그래머스</summary>
+
+| 문제 | 제목 | 유형 | 비고 |
+|:------:|:------:|:------:|:------:|
 |프로그래머스|기능 개발|스택, 큐||
 |프로그래머스|다리를 지나는 트럭|스택, 큐||
 |프로그래머스|프린터|큐||
@@ -145,10 +153,26 @@
 |프로그래머스|전화번호 목록|해시||
 |프로그래머스|네트워크|BFS||
 |프로그래머스|짝지어 제거하기|스택|2017 팁스타운|
+|프로그래머스|메뉴 리뉴얼|해시맵, 조합|2021 KAKAO BLIND RECRUITMENT|
+
+</details>
 
 ### 못푼 문제
+
+<details>
+    <summary>백준</summary>
+
 | 문제 | 제목 | 유형 | 비고 |
-|------|------|------|------|
+|:------:|:------:|:------:|:------:|
 |백준 2468|안전영역|BFS||
 |백준 15683|감시|시뮬레이션||
+
+</details>
+<details>
+    <summary>프로그래머스</summary>
+
+<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
+
+</details>
+
 
