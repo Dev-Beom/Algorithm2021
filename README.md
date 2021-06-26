@@ -77,6 +77,7 @@
 |백준 10816|숫자 카드2|HashMap||
 |백준 10828|Stack|Stack||
 |백준 10845|Queue|Queue||
+|백준 10972|다음 순열|Permutation||
 |백준 11047|동전 0|Greedy||
 |백준 11279|최대 힙|Priority Queue||
 |백준 11286|절댓값 힙|Priority Queue||
