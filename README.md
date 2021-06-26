@@ -65,6 +65,7 @@
 |백준 4179|불!|BFS||
 |백준 4963|섬의 개수|BFS||
 |백준 5430|AC|Implement||
+|백준 5567|결혼식|Implement, Graph Search, BFS||
 |백준 6603|로또|Combination, Backtracking||
 |백준 7576|토마토|BFS||
 |백준 7562|나이트의 이동|BFS||
