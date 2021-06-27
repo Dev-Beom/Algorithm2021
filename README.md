@@ -76,6 +76,7 @@
 |백준 9625|BABBA|DP||
 |백준 9663|N-Queen|Backtracking|💦|
 |백준 10026|적록색약|BFS||
+|백준 10157|자리배정|Implement||
 |백준 10807|개수 세기|Implement||
 |백준 10814|나이순 Sorting|Sorting||
 |백준 10816|숫자 카드2|HashMap||
