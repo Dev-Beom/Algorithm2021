@@ -45,6 +45,7 @@
 |백준 1753|최단경로|Dijkstra, Priority Queue||
 |백준 1874|스택 수열|Stack||
 |백준 1904|01타일|DP||
+|백준 1916|최소비용 구하기|Dijkstra, Priority Queue||
 |백준 1926|그림|BFS||
 |백준 1927|최소 힙|Priority Queue||
 |백준 1931|회의실 배정|Greedy||
