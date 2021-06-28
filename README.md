@@ -45,6 +45,7 @@
 |백준 1697|숨바꼭질|BFS||
 |백준 1744|수 묶기|Greedy||
 |백준 1753|최단경로|Dijkstra, Priority Queue||
+|백준 1759|암호 만들기|Combination, Backtracking||
 |백준 1874|스택 수열|Stack||
 |백준 1904|01타일|DP||
 |백준 1916|최소비용 구하기|Dijkstra, Priority Queue||
