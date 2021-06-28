@@ -1,5 +1,12 @@
 package com.javaps.B6593;
 
+/*
+ * 문제 유형 : BFS / 그래프 탐색
+ * 문제 난이도 : 골드 5
+ * 풀이 시간 : 33분 50초
+ * 제출 실패 횟수 : 0
+ */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
