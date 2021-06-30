@@ -71,6 +71,7 @@
 |백준 2960|에라토스테네스의 체|Implement||
 |백준 3190|뱀|Implement||
 |백준 4179|불!|BFS||
+|백준 4796|캠핑|Greedy||
 |백준 4963|섬의 개수|BFS||
 |백준 5430|AC|Implement||
 |백준 5567|결혼식|Implement, Graph Search, BFS||
