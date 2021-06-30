@@ -39,14 +39,14 @@ public class Main {
             }
         }
 
+        StringBuilder sb = new StringBuilder();
         for (int i = 0; i < N; i++) {
             for (int j = 0; j < N; j++) {
-                if (j != N - 1)
-                    System.out.print(arr[i][j] + " ");
-                else
-                    System.out.print(arr[i][j]);
+                if (arr[i][j] >= INF) sb.append("0 ");
+                else sb.append(arr[i][j]).append(" ");
             }
-            System.out.println();
+            sb.append("\n");
         }
+        System.out.println(sb);
     }
 }
