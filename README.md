@@ -115,6 +115,7 @@
 |백준 15663|N과 M(9)|Backtracking||
 |백준 15664|N과 M(10)|Backtracking||
 |백준 15665|N과 M(11)|Backtracking||
+|백준 15666|N과 M(12)|Backtracking||
 |백준 15903|카드 합체 놀이|Greedy, Priority Queue||
 |백준 11650|좌표 정렬하기|Sorting||
 |백준 17219|비밀번호 찾기|HashMap||
