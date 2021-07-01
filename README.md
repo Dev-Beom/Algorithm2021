@@ -185,7 +185,8 @@
 |프로그래머스|전화번호 목록|Hash||
 |프로그래머스|네트워크|BFS, Graph||
 |프로그래머스|짝지어 제거하기|Stack|2017 팁스타운|
-|프로그래머스|메뉴 리뉴얼|HashMap, 조합|2021 KAKAO BLIND RECRUITMENT|
+|프로그래머스|메뉴 리뉴얼|HashMap, Combination|2021 KAKAO BLIND RECRUITMENT|
+|프로그래머스|124 나라의 숫자|Implement||
 
 </details>
 
