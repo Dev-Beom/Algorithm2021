@@ -86,6 +86,7 @@ Programmers(1 ~ 3 level SQL 제외 java/python/c++) **85개**
 |BOJ 9461|파도반 수열|DP||
 |BOJ 9625|BABBA|DP||
 |BOJ 9663|N-Queen|Backtracking|💦|
+|BOJ 9935|문자열 폭발|String, Stack||
 |BOJ 10026|적록색약|BFS||
 |BOJ 10157|자리배정|Implement||
 |BOJ 10807|개수 세기|Implement||
