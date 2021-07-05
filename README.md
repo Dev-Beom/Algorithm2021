@@ -70,6 +70,7 @@ Programmers(1 ~ 3 level SQL 제외 java/python/c++) **85개**
 |BOJ 2847|게임을 만든 동준이|Greedy||
 |BOJ 2947|나무조각|Simulation||
 |BOJ 2960|에라토스테네스의 체|Implement||
+|BOJ 3055|탈출|BFS||
 |BOJ 3190|뱀|Implement||
 |BOJ 4179|불!|BFS||
 |BOJ 4796|캠핑|Greedy||
