@@ -36,4 +36,3 @@ public class Main {
         System.out.println(sb.length() > 0 ? sb.toString() : "FRULA");
     }
 }
-
