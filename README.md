@@ -84,6 +84,7 @@ Programmers(1 ~ 3 level SQL 제외 java/python/c++) **85개**
 |BOJ 7576|토마토|BFS||
 |BOJ 7562|나이트의 이동|BFS||
 |BOJ 7785|회사에 있는 사람|HashSet||
+|BOJ 8979|올림픽|Implement||
 |BOJ 9184|신나는 함수 실행|DP||
 |BOJ 9461|파도반 수열|DP||
 |BOJ 9625|BABBA|DP||
