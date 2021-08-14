@@ -62,6 +62,7 @@ Programmers(1 ~ 3 level SQL 제외 java/python/c++) **85개**
 |BOJ 2457|공주님의 정원|Greedy|💦|
 |BOJ 2493|탑|Stack||
 |BOJ 2577|숫자의 개수|String||
+|BOJ 2578|빙고|Implement||
 |BOJ 2583|영역 구하기|BFS||
 |BOJ 2644|촌수계산|BFS||
 |BOJ 2696|중앙값 구하기|Priority Queue||
