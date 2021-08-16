@@ -56,6 +56,7 @@ Programmers(1 ~ 3 level SQL 제외 java/python/c++) **85개**
 |BOJ 1946|신입사원|Greedy||
 |BOJ 1966|프린터 Queue|Queue, Priority Queue||
 |BOJ 1987|알파벳|DFS||
+|BOJ 2109|순회강연|Greedy||
 |BOJ 2164|카드 2|Queue||
 |BOJ 2212|센서|Greedy||
 |BOJ 2407|조합|Combination, DP||
