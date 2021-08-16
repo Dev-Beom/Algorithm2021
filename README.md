@@ -201,6 +201,7 @@ Programmers(1 ~ 3 level SQL 제외 java/python/c++) **85개**
 |Programmers|배달|Dijkstra, BFS|Summer/Winter Coding(~2018)|
 |Programmers|파일명 정렬|String, Implement|2018 KAKAO BLIND RECRUITMENT|
 |Programmers|2개 이하로 다른 비트|String, Implement|월간 코드 챌린지 시즌2|
+|Programmers|부족한 금액 계산하기|Implement|위클리 챌린지 1주차|
 
 </details>
 
