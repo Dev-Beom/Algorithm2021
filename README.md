@@ -68,6 +68,7 @@ Programmers(1 ~ 3 level SQL 제외 java/python/c++) **85개**
 |BOJ 2583|영역 구하기|BFS||
 |BOJ 2644|촌수계산|BFS||
 |BOJ 2696|중앙값 구하기|Priority Queue||
+|BOJ 2776|암기왕|Hash Set & Map||
 |BOJ 2799|블라인드|Implement||
 |BOJ 2839|설탕배달|DP||
 |BOJ 2847|게임을 만든 동준이|Greedy||
