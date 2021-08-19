@@ -116,6 +116,7 @@ Programmers(1 ~ 3 level SQL 제외 java/python/c++) **85개**
 |BOJ 14940|쉬운 최단거리|Graph, BFS||
 |BOJ 15686|치킨 배달|Implement|👍|
 |BOJ 13305|주유소|Greedy|💦|
+|BOJ 13414|수강신청|Hash Set & Map||
 |BOJ 15649|N과 M(1)|Backtracking||
 |BOJ 15650|N과 M(2)|Backtracking||
 |BOJ 15651|N과 M(3)|Backtracking||
