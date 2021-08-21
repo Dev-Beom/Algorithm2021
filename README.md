@@ -210,6 +210,7 @@ Programmers(1 ~ 3 level SQL 제외 java/python/c++) **85개**
 |Programmers|정수 내림차순으로 배치하기|Implement||
 |Programmers|최댓값과 최솟값|Implement||
 |Programmers|N개의 최소공배수|Math||
+|Programmers|최대공약수와 최소공배수|Math||
 
 </details>
 
