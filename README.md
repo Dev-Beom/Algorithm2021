@@ -213,6 +213,7 @@ Programmers(1 ~ 3 level SQL 제외 java/python/c++) **85개**
 |Programmers|N개의 최소공배수|Math, Number Theory||
 |Programmers|최대공약수와 최소공배수|Math, Number Theory||
 |Programmers|약수의 합|Math, Number Theory||
+|Programmers|소수 찾기|Math, Number Theory||
 
 </details>
 
