@@ -208,6 +208,7 @@ Programmers(1 ~ 3 level SQL 제외 java/python/c++) **85개**
 |Programmers|부족한 금액 계산하기|Implement|위클리 챌린지 1주차|
 |Programmers|최솟값 만들기|Implement||
 |Programmers|정수 내림차순으로 배치하기|Implement||
+|Programmers|최댓값과 최솟값|Implement||
 
 </details>
 
