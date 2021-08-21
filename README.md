@@ -66,6 +66,7 @@ Programmers(1 ~ 3 level SQL 제외 java/python/c++) **85개**
 |BOJ 2577|숫자의 개수|String||
 |BOJ 2578|빙고|Implement||
 |BOJ 2583|영역 구하기|BFS||
+|BOJ 2609|최대공약수와 최소공배수|Math, Number Theory||
 |BOJ 2644|촌수계산|BFS||
 |BOJ 2696|중앙값 구하기|Priority Queue||
 |BOJ 2776|암기왕|Hash Set & Map||
@@ -209,8 +210,8 @@ Programmers(1 ~ 3 level SQL 제외 java/python/c++) **85개**
 |Programmers|최솟값 만들기|Implement||
 |Programmers|정수 내림차순으로 배치하기|Implement||
 |Programmers|최댓값과 최솟값|Implement||
-|Programmers|N개의 최소공배수|Math||
-|Programmers|최대공약수와 최소공배수|Math||
+|Programmers|N개의 최소공배수|Math, Number Theory||
+|Programmers|최대공약수와 최소공배수|Math, Number Theory||
 
 </details>
 
