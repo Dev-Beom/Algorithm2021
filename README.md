@@ -2,18 +2,16 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudqja8847)](https://solved.ac/dudqja8847/)  
 
-2021년 6월 5일부터 ~ 2021년 9월 1일까지
-
-하루에 평균 2 ~ 3 문제씩 ‼‼‼‼‼ 개인당 200개 이상 
-
-인정 범위 및 최소 갯수
-BOJ(실5 ~ 골1) **122개**  
-Programmers(1 ~ 3 level SQL 제외 java/python/c++) **85개**  
-
-#### 9월 1일까지 해당 사항 달성 실패시 10만원빵🤲🤲🤲🤲🤲  
-
-## 참여자  
-이영범(20210605 ~ 0901) https://github.com/Sinlicon-Valley/Algorithm2021  
+## Introduce
+### 틀니딱딱 코딩 챌린지
+- 2021년 6월 5일부터 ~ 2021년 9월 1일  
+- 하루에 평균 2 ~ 3 문제씩, 개인당 200개 이상
+- 인정 범위 및 최소 갯수
+  - BOJ(실5 ~ 골1) **122개**  
+  - Programmers(1 ~ 3 level SQL 제외 java/python/c++) **85개**  
+- 9월 1일까지 해당 사항 달성 실패시 10만원빵🤲🤲🤲🤲🤲  
+**참여자**  
+```이영범(20210605 ~ 0901) https://github.com/Sinlicon-Valley/Algorithm2021  
 이은재(20210605 ~ 0901) https://github.com/leesilverash/AlgorithmStudy  
 황상혁(20210606 ~ 0902) https://github.com/sshyukk/Algorithm-Study + 1일  
 전현구(20210607 ~ 0903) https://github.com/hyeongu95/Algorithm_2021 + 2일  
@@ -21,8 +19,15 @@ Programmers(1 ~ 3 level SQL 제외 java/python/c++) **85개**
 박준형(20210610 ~ 0906) https://github.com/Junbro0708/Algorithm_CPP + 5일  
 이영훈(20210610 ~ 0906) https://github.com/dudgns5845/AlgorithmStudy + 5일  
 황상진(20210627 ~ 0922) https://github.com/Hwang-Sangjin/Algorithm + 21일  
+```
 
-### 푼 문제
+# 링크 모음
+<details>
+    <summary>꿀 문제</summary>
+    문제추천 https://github.com/tony9402/baekjoon/blob/main/picked.md
+</details>
+
+# 푼 문제
 <details>
     <summary>BOJ</summary>
 
@@ -224,7 +229,7 @@ Programmers(1 ~ 3 level SQL 제외 java/python/c++) **85개**
 
 </details>
 
-### 못푼 문제
+# 못푼 문제
 
 <details>
     <summary>BOJ</summary>
