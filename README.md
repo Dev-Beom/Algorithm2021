@@ -117,13 +117,16 @@
 |BOJ 11403|경로 찾기|Floyd Warshall||
 |BOJ 11404|플로이드|Floyd Warshall||
 |BOJ 11501|주식|Greedy||
+|BOJ 11650|좌표 정렬하기|Sorting||
 |BOJ 11651|좌표 정렬하기2|Sorting||
 |BOJ 11724|연결 요소의 개수|BFS||
 |BOJ 11866|요세푸스 문제 0|Queue||
-|BOJ 14940|쉬운 최단거리|Graph, BFS||
-|BOJ 15686|치킨 배달|Implement|👍|
+|BOJ 13164|행복 유치원|Greedy||
 |BOJ 13305|주유소|Greedy|💦|
 |BOJ 13414|수강신청|Hash Set & Map||
+|BOJ 14719|빗물|Implement, Simulation||
+|BOJ 14923|미로탈출|BFS, Graph||
+|BOJ 14940|쉬운 최단거리|Graph, BFS||
 |BOJ 15649|N과 M(1)|Backtracking||
 |BOJ 15650|N과 M(2)|Backtracking||
 |BOJ 15651|N과 M(3)|Backtracking||
@@ -136,10 +139,8 @@
 |BOJ 15664|N과 M(10)|Backtracking||
 |BOJ 15665|N과 M(11)|Backtracking||
 |BOJ 15666|N과 M(12)|Backtracking||
+|BOJ 15686|치킨 배달|Implement|👍|
 |BOJ 15903|카드 합체 놀이|Greedy, Priority Queue||
-|BOJ 11650|좌표 정렬하기|Sorting||
-|BOJ 14719|빗물|Implement, Simulation||
-|BOJ 14923|미로탈출|BFS, Graph||
 |BOJ 17219|비밀번호 찾기|HashMap||
 |BOJ 17298|오큰수|Stack|💦|
 |BOJ 18352|특정 거리의 도시 찾기|Dijkstra, BFS||
