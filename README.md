@@ -124,6 +124,7 @@
 |BOJ 13164|행복 유치원|Greedy||
 |BOJ 13305|주유소|Greedy|💦|
 |BOJ 13414|수강신청|Hash Set & Map||
+|BOJ 14500|테트로미노|Brute Force, Implement||
 |BOJ 14719|빗물|Implement, Simulation||
 |BOJ 14923|미로탈출|BFS, Graph||
 |BOJ 14940|쉬운 최단거리|Graph, BFS||
