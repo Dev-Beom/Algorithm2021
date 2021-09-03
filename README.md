@@ -2,6 +2,13 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudqja8847)](https://solved.ac/dudqja8847/)  
 
+## [문제 풀이 확인하기](https://github.com/Sinlicon-Valley/Algorithm2021/issues)
+#### 문제 풀이집 라벨 규칙
+| Low Level | Medium Level | High Level |
+|:------:|:------:|:------:|
+|백준 실버 5 ~ 1|백준 골드 5 ~ 3|백준 골드 2 이상|
+|프로그래머스 Level 1|프로그래머스 Level 2|프로그래머스 Level 3 이상|
+
 ## Introduce
 ### 틀니딱딱 코딩 챌린지
 - 2021년 6월 5일부터 ~ 2021년 9월 1일  
@@ -57,6 +64,7 @@
 |BOJ 1874|스택 수열|Stack||
 |BOJ 1904|01타일|DP||
 |BOJ 1916|최소비용 구하기|Dijkstra, Priority Queue||
+|BOJ 1920|수 찾기|Binary Search||
 |BOJ 1926|그림|BFS||
 |BOJ 1927|최소 힙|Priority Queue||
 |BOJ 1931|회의실 배정|Greedy||
