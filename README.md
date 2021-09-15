@@ -240,6 +240,7 @@
 |Programmers|직업군 추천하기|Implement|위클리 챌린지 4주차|
 |Programmers|영어 끝말잇기|Hash Set & Map|Summer/Winter Coding(~2018)|
 |Programmers|방문 길이|Simulation|Summer/Winter Coding(~2018)|
+|Programmers|문자열 압축|String, Implement|2020 KAKAO BLIND RECRUITMENT|
 
 </details>
 
