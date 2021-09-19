@@ -240,6 +240,19 @@
 |Programmers|직업군 추천하기|Implement|위클리 챌린지 4주차|
 |Programmers|영어 끝말잇기|Hash Set & Map|Summer/Winter Coding(~2018)|
 |Programmers|광고 삽입|Simulation|2021 KAKAO BLIND RECRUITMENT|
+|Programmers|방문 길이|Simulation|Summer/Winter Coding(~2018)|
+|Programmers|문자열 압축|String, Implement|2020 KAKAO BLIND RECRUITMENT|
+|Programmers|입실 퇴실|Simulation|위클리 챌린지 7주차|
+
+</details>
+
+<details>
+    <summary>SQL with Programmers</summary>
+
+| 문제 | 제목 | 유형 | 비고 |
+|:------:|:------:|:------:|:------:|
+|Programmers|모든 레코드 조회하기|SELECT||
+|Programmers|역순 정렬하기|SELECT, ORDER BY DESC||
 
 </details>
 
