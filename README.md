@@ -44,6 +44,7 @@
 |BOJ 1010|다리 놓기|DP||
 |BOJ 1026|보물|Sorting||
 |BOJ 1051|숫자 정사각형|Implement, Brute Force||
+|BOJ 1094|막대기|Binary Search||
 |BOJ 1158|요세푸스 문제|Queue||
 |BOJ 1197|최소 스패닝 트리|MST, Kruskal, Union Find||
 |BOJ 1292|쉽게 푸는 문제|Implement||
