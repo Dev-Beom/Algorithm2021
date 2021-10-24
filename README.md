@@ -257,6 +257,8 @@
 | 문제 | 제목 | 유형 | 비고 |
 |:------:|:------:|:------:|:------:|
 |N**|Merge & Branch|Implement||
+|N**|공격준비|Greedy||
+|N**|갈등|Permutation||
 
 </details>
 
