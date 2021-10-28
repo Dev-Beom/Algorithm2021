@@ -152,6 +152,7 @@
 |BOJ 15666|N과 M(12)|Backtracking||
 |BOJ 15686|치킨 배달|Implement|👍|
 |BOJ 15903|카드 합체 놀이|Greedy, Priority Queue||
+|BOJ 11652|카드|Brute Force||
 |BOJ 17219|비밀번호 찾기|HashMap||
 |BOJ 17298|오큰수|Stack|💦|
 |BOJ 18352|특정 거리의 도시 찾기|Dijkstra, BFS||
