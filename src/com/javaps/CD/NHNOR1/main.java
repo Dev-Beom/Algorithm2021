@@ -14,18 +14,18 @@ public class main {
         for (int TC = 0; TC < numOfOperation; TC++) {
             Operation curr = operations[TC];
 
-            if (curr.type == OperationType.branch) {
-                for (int i = 1; i < 100000; i++) {
-                    head = i;
-                    if (!map.containsKey(head)) {
-                        map.put(head, 1);
-                        break;
-                    }
-                }
-            } else {
-                head = curr.value;
-                map.remove(head)
-            }
+//            if (curr.type == OperationType.branch) {
+//                for (int i = 1; i < 100000; i++) {
+//                    head = i;
+//                    if (!map.containsKey(head)) {
+//                        map.put(head, 1);
+//                        break;
+//                    }
+//                }
+//            } else {
+//                head = curr.value;
+//                map.remove(head);
+//            }
         }
 
         for (Integer i : map.keySet()) System.out.print(i + " ");
