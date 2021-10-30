@@ -75,6 +75,7 @@
 |BOJ 1987|알파벳|DFS||
 |BOJ 2109|순회강연|Greedy||
 |BOJ 2164|카드 2|Queue||
+|BOJ 2174|로봇 시뮬레이션|Simulation||
 |BOJ 2212|센서|Greedy||
 |BOJ 2407|조합|Combination, DP||
 |BOJ 2457|공주님의 정원|Greedy|💦|
