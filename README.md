@@ -71,6 +71,7 @@
 |BOJ 1931|회의실 배정|Greedy||
 |BOJ 1946|신입사원|Greedy||
 |BOJ 1966|프린터 Queue|Queue, Priority Queue||
+|BOJ 1976|여행가자|Graph, BFS||
 |BOJ 1987|알파벳|DFS||
 |BOJ 2109|순회강연|Greedy||
 |BOJ 2164|카드 2|Queue||
