@@ -158,6 +158,7 @@
 |BOJ 11652|카드|Brute Force||
 |BOJ 17219|비밀번호 찾기|HashMap||
 |BOJ 17298|오큰수|Stack|💦|
+|BOJ 17478|재귀함수가 뭔가요?|Recursion, Implement||
 |BOJ 18352|특정 거리의 도시 찾기|Dijkstra, BFS||
 |BOJ 18405|경쟁적 점염|Implement, BFS, Graph||
 
