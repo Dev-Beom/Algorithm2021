@@ -135,6 +135,7 @@
 |BOJ 11866|요세푸스 문제 0|Queue||
 |BOJ 13164|행복 유치원|Greedy||
 |BOJ 13305|주유소|Greedy|💦|
+|BOJ 13335|트럭|Implement, Simulation||
 |BOJ 13414|수강신청|Hash Set & Map||
 |BOJ 14500|테트로미노|Brute Force, Implement||
 |BOJ 14503|로봇 청소기|Implement, Simulation||
