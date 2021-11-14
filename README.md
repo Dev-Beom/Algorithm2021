@@ -103,6 +103,7 @@
 |BOJ 5397|키로거|Stack||
 |BOJ 5430|AC|Implement||
 |BOJ 5567|결혼식|Implement, Graph Search, BFS||
+|BOJ 5972|택배 배송|Graph Search, Dijkstra, Priority Queue||
 |BOJ 6593|상범 빌딩|Graph, BFS||
 |BOJ 6603|로또|Combination, Backtracking||
 |BOJ 7576|토마토|BFS||
