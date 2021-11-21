@@ -57,6 +57,7 @@
 |BOJ 1463|뒤집개|DP|💦|
 |BOJ 1475|방번호|Implement||
 |BOJ 1504|특정한 최단 경로|Graph, Dijkstra||
+|BOJ 1520|내리막길|Graph, DP, DFS||
 |BOJ 1620|나는야 포켓몬 마스터 이다솜|HashMap||
 |BOJ 1655|가운데를 말해요|Priority Queue||
 |BOJ 1697|숨바꼭질|BFS||
