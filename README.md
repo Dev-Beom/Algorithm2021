@@ -83,6 +83,7 @@
 |BOJ 2457|공주님의 정원|Greedy|💦|
 |BOJ 2493|탑|Stack||
 |BOJ 2563|색종이|Implement||
+|BOJ 2564|경비원|Implement||
 |BOJ 2577|숫자의 개수|String||
 |BOJ 2578|빙고|Implement||
 |BOJ 2583|영역 구하기|BFS||
