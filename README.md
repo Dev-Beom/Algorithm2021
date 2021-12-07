@@ -98,6 +98,7 @@
 | BOJ 2847  |   게임을 만든 동준이    |                 Greedy                 ||
 | BOJ 2947  |      나무조각       |               Simulation               ||
 | BOJ 2960  |   에라토스테네스의 체    |               Implement                ||
+| BOJ 3018  |      캠프파이어      |       Hash Set & Map, Implement        ||
 | BOJ 3055  |       탈출        |                  BFS                   ||
 | BOJ 3190  |        뱀        |               Implement                ||
 | BOJ 3425  |       고스택       |            Implement, Stack            ||
