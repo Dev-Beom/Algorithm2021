@@ -1,54 +1,48 @@
 package com.javaps.B3018;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.Scanner;
 
+class Node {
+    String name;
+    String value;
+
+    Node(String name, String value) {
+        this.name = name;
+        this.value = value;
+    }
+}
 
 public class Main {
-
-    static int N, E, K;
-    static HashMap<Integer, ArrayList<Integer>> map = new HashMap<>();
-    static ArrayList<Integer> musicList = new ArrayList<>();
-    final static int SUNYOUNG = 1;
-
     public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        N = Integer.parseInt(br.readLine());
-        E = Integer.parseInt(br.readLine());
-
-        for (int i = 1; i <= N; i++) map.put(i, new ArrayList<Integer>());
-
-        for (int i = 0; i < E; i++) {
-            int songID = i;
-            List<Integer> todayJoinList = new ArrayList<>();
-            StringTokenizer st = new StringTokenizer(br.readLine());
-            K = Integer.parseInt(st.nextToken());
-
-            for (int j = 0; j < K; j++) {
-                todayJoinList.add(Integer.parseInt(st.nextToken()));
-            }
-
-            if (todayJoinList.contains(SUNYOUNG)) {
-                musicList.add(songID);
-                todayJoinList.forEach(user -> {
-                    map.get(user).add(songID);
-                });
-            } else {
-                HashSet<Integer> sharedMusicList = new HashSet<>();
-                todayJoinList.forEach(user -> {
-                    sharedMusicList.addAll(map.get(user));
-                });
-                todayJoinList.forEach(user -> {
-                    map.put(user, new ArrayList<>(sharedMusicList));
-                });
+        Scanner scanner = new Scanner(System.in);
+        HashMap<String, Integer> map = new HashMap<>();
+        ArrayList<Node> res = new ArrayList<>();
+        int allCnt = 0;
+        while (scanner.hasNextLine()) {
+            String name = scanner.nextLine();
+            if (name.equals("")) break;
+            else {
+                map.put(name, map.getOrDefault(name, 0) + 1);
+                allCnt++;
             }
         }
-        for (Integer key : map.keySet()) {
-            if (map.get(key).size() == musicList.size()) {
-                System.out.println(key);
-            }
+        for (String key : map.keySet()) {
+            int value = map.get(key);
+            double percentage = (double) value / (double) allCnt * 100;
+            res.add(new Node(key, String.format("%.4f", percentage)));
         }
+        res.sort(new Comparator<Node>() {
+            @Override
+            public int compare(Node o1, Node o2) {
+                return o1.name.compareTo(o2.name);
+            }
+        });
+        res.forEach(x -> {
+            System.out.println(x.name + " " + x.value);
+        });
     }
 }
