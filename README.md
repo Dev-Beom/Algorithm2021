@@ -1,23 +1,28 @@
 # Java-PS
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudqja8847)](https://solved.ac/dudqja8847/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudqja8847)](https://solved.ac/dudqja8847/)
 
 ## [문제 풀이 확인하기](https://github.com/Sinlicon-Valley/Algorithm2021/issues)
+
 #### 문제 풀이집 라벨 규칙
+
 | Low Level | Medium Level | High Level |
 |:------:|:------:|:------:|
 |백준 실버 5 ~ 1|백준 골드 5 ~ 3|백준 골드 2 이상|
 |프로그래머스 Level 1|프로그래머스 Level 2|프로그래머스 Level 3 이상|
 
 ## Introduce
+
 ### 글미 16 코딩 챌린지
-- 2021년 6월 5일부터 ~ 2021년 9월 1일  
+
+- 2021년 6월 5일부터 ~ 2021년 9월 1일
 - 하루에 평균 2 ~ 3 문제씩, 개인당 200개 이상
 - 인정 범위 및 최소 갯수
-  - BOJ(실5 ~ 골1) **122개**  
-  - Programmers(1 ~ 3 level SQL 제외 java/python/c++) **85개**  
+    - BOJ(실5 ~ 골1) **122개**
+    - Programmers(1 ~ 3 level SQL 제외 java/python/c++) **85개**
 - 9월 1일까지 해당 사항 달성 실패시 10만원빵🤲🤲🤲🤲🤲  
-**참여자**  
+  **참여자**
+
 ```이영범(20210605 ~ 0901) https://github.com/Sinlicon-Valley/Algorithm2021  
 이은재(20210605 ~ 0901) https://github.com/leesilverash/AlgorithmStudy  
 황상혁(20210606 ~ 0902) https://github.com/sshyukk/Algorithm-Study + 1일  
@@ -29,12 +34,14 @@
 ```
 
 # 링크 모음
+
 <details>
     <summary>꿀 문제</summary>
     문제추천 https://github.com/tony9402/baekjoon/blob/main/picked.md
 </details>
 
 # 푼 문제
+
 <details>
     <summary>BOJ</summary>
 
@@ -165,6 +172,7 @@
 | BOJ 15686 |      치킨 배달      |               Implement                | 👍  |
 | BOJ 15903 |    카드 합체 놀이     |         Greedy, Priority Queue         ||
 | BOJ 11652 |       카드        |              Brute Force               ||
+| BOJ 17129 |  윌리암슨수액빨이딱따구리   |               Graph, BFS               ||
 | BOJ 17219 |     비밀번호 찾기     |                HashMap                 ||
 | BOJ 17298 |       오큰수       |                 Stack                  | 💦  |
 | BOJ 17478 |   재귀함수가 뭔가요?    |          Recursion, Implement          ||
