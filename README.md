@@ -72,6 +72,7 @@
 | BOJ 1753  |      최단경로       |        Dijkstra, Priority Queue        ||
 | BOJ 1759  |     암호 만들기      |       Combination, Backtracking        ||
 | BOJ 1874  |      스택 수열      |                 Stack                  ||
+| BOJ 1990  |     소수인팰린드롬     |          Math, Number Theory           ||
 | BOJ 1904  |      01타일       |                   DP                   ||
 | BOJ 1916  |    최소비용 구하기     |        Dijkstra, Priority Queue        ||
 | BOJ 1920  |      수 찾기       |             Binary Search              ||
