@@ -68,6 +68,7 @@
 | BOJ 1620  | 나는야 포켓몬 마스터 이다솜 |                HashMap                 ||
 | BOJ 1655  |    가운데를 말해요     |             Priority Queue             ||
 | BOJ 1697  |      숨바꼭질       |                  BFS                   ||
+| BOJ 1715  |     카드 정렬하기     |         Greedy, Priority Queue         ||
 | BOJ 1744  |      수 묶기       |                 Greedy                 ||
 | BOJ 1753  |      최단경로       |        Dijkstra, Priority Queue        ||
 | BOJ 1759  |     암호 만들기      |       Combination, Backtracking        ||
