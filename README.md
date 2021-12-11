@@ -139,6 +139,7 @@
 | BOJ 10972 |      다음 순열      |              Permutation               ||
 | BOJ 10973 |      이전 순열      |              Permutation               ||
 | BOJ 11047 |      동전 0       |                 Greedy                 ||
+| BOJ 11170 |      0의 개수      |              Brute Force               ||
 | BOJ 11279 |      최대 힙       |             Priority Queue             ||
 | BOJ 11286 |      절댓값 힙      |             Priority Queue             ||
 | BOJ 11399 |       ATM       |                 Greedy                 ||
