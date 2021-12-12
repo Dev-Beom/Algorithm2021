@@ -1,5 +1,9 @@
 /out/
 /.idea/
-.idea
+*.xml
 out
 *.iml
+.idea/modules.xml
+.idea/misc.xml
+.idea/misc.xml
+.idea/modules.xml
