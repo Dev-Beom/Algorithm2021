@@ -278,6 +278,7 @@
 |Programmers|복서 정렬하기|      Implement       |위클리 챌린지 6주차|
 |Programmers|모음사전|          DP          |위클리 챌린지 8주차|
 |Programmers|피로도|         DFS          |위클리 챌린지 12주차|
+|Programmers|없는 숫자 더하기|Implement|월간 코드 챌린지 시즌3|
 
 </details>
 
