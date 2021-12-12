@@ -184,99 +184,100 @@
 | BOJ 17478 |   재귀함수가 뭔가요?    |          Recursion, Implement          ||
 | BOJ 18352 |  특정 거리의 도시 찾기   |             Dijkstra, BFS              ||
 | BOJ 18405 |     경쟁적 점염      |         Implement, BFS, Graph          ||
+| BOJ 19640 |     화장실의 규칙     | Implement, Simulation, Priority Queue  ||
 
 </details>
 
 <details>
     <summary>Programmers</summary>
 
-| 문제 | 제목 | 유형 | 비고 |
-|:------:|:------:|:------:|:------:|
-|Programmers|기능 개발|Stack, Queue||
-|Programmers|다리를 지나는 트럭|Queue||
-|Programmers|프린터|Queue||
-|Programmers|주식가격|Stack, Queue||
-|Programmers|K번째 수|Sorting||
-|Programmers|포켓몬|HashSet||
-|Programmers|크레인 인형뽑기 게임|Stack, Implement|2019 카카오 개발자 겨울 인턴십|
-|Programmers|신규 아이디 추천|String, Implement|2021 KAKAO BLIND RECRUITMENT|
-|Programmers|완주하지 못한 선수|HashMap||
-|Programmers|가운데 글자 가져오기|String||
-|Programmers|키패드 누르기|Implement|2020 카카오 인턴십|
+| 문제 | 제목 |          유형          | 비고 |
+|:------:|:------:|:--------------------:|:------:|
+|Programmers|기능 개발|     Stack, Queue     ||
+|Programmers|다리를 지나는 트럭|        Queue         ||
+|Programmers|프린터|        Queue         ||
+|Programmers|주식가격|     Stack, Queue     ||
+|Programmers|K번째 수|       Sorting        ||
+|Programmers|포켓몬|       HashSet        ||
+|Programmers|크레인 인형뽑기 게임|   Stack, Implement   |2019 카카오 개발자 겨울 인턴십|
+|Programmers|신규 아이디 추천|  String, Implement   |2021 KAKAO BLIND RECRUITMENT|
+|Programmers|완주하지 못한 선수|       HashMap        ||
+|Programmers|가운데 글자 가져오기|        String        ||
+|Programmers|키패드 누르기|      Implement       |2020 카카오 인턴십|
 |Programmers|모의고사|Brute Force, Implement||
-|Programmers|로또의 최고 순위와 최저 순위|Implement|2021 Dev-Matching: 웹 백엔드 개발자(상반기)|
-|Programmers|내적|Implement|월간 코드 챌린지 시즌1|
-|Programmers|실패율|Implement, Sorting|2019 KAKAO BLIND RECRUITMENT|
-|Programmers|2016|Implement||
-|Programmers|두 개 뽑아서 더하기|HashSet|월간 코드 챌린지 시즌1|
-|Programmers|비밀지도|Implement|2018 KAKAO BLIND RECRUITMENT|
-|Programmers|진법 뒤집기|Implement|월간 코드 챌린지 시즌 1|
-|Programmers|음양 더하기|Implement|월간 코드 챌린지 시즌 2|
-|Programmers|예산|Greedy|Summer/Winter Coding(~2018)|
-|Programmers|체육복|Greedy||
-|Programmers|약수의 개수와 덧셈|Implement|월간 코드 챌린지 시즌 2|
-|Programmers|같은 숫자는 싫어|Implement||
-|Programmers|하샤드 수|Implement||
-|Programmers|나누어 떨어지는 숮자 배열|Implement||
-|Programmers|두 정수 사이의 합|Implement||
-|Programmers|오픈채팅방|HashMap, Implement|2019 KAKAO BLIND RECRUITMENT|
-|Programmers|다트게임|String, Implement|2018 KAKAO BLIND RECRUITMENT|
-|Programmers|서울에서 김서방 찾기|Implement||
-|Programmers|String 내 p와 y의 개수|Implement||
-|Programmers|수박수박수박수박수박수?|Implement||
-|Programmers|문자열을 정수로 바꾸기|Implement||
-|Programmers|이상한 문자 만들기|Implement||
-|Programmers|직사각형 별찍기|Implement||
-|Programmers|콜라츠 추측|Implement||
-|Programmers|x만큼 간격이 있는 n개의 숫자|Implement||
-|Programmers|짝수와 홀수|Implement||
-|Programmers|행렬의 덧셈|Implement||
-|Programmers|평균 구하기|Implement||
-|Programmers|정수 제곱근 판별|Implement||
-|Programmers|더 맵게|Priority Queue||
-|Programmers|게임 맵 최단거리|BFS|찾아라 프로그래밍 마에스터|
-|Programmers|프린터|Queue, Implement||
-|Programmers|카카오프렌즈 컬러링북|BFS|2017 카카오코드 예선|
+|Programmers|로또의 최고 순위와 최저 순위|      Implement       |2021 Dev-Matching: 웹 백엔드 개발자(상반기)|
+|Programmers|내적|      Implement       |월간 코드 챌린지 시즌1|
+|Programmers|실패율|  Implement, Sorting  |2019 KAKAO BLIND RECRUITMENT|
+|Programmers|2016|      Implement       ||
+|Programmers|두 개 뽑아서 더하기|       HashSet        |월간 코드 챌린지 시즌1|
+|Programmers|비밀지도|      Implement       |2018 KAKAO BLIND RECRUITMENT|
+|Programmers|진법 뒤집기|      Implement       |월간 코드 챌린지 시즌 1|
+|Programmers|음양 더하기|      Implement       |월간 코드 챌린지 시즌 2|
+|Programmers|예산|        Greedy        |Summer/Winter Coding(~2018)|
+|Programmers|체육복|        Greedy        ||
+|Programmers|약수의 개수와 덧셈|      Implement       |월간 코드 챌린지 시즌 2|
+|Programmers|같은 숫자는 싫어|      Implement       ||
+|Programmers|하샤드 수|      Implement       ||
+|Programmers|나누어 떨어지는 숮자 배열|      Implement       ||
+|Programmers|두 정수 사이의 합|      Implement       ||
+|Programmers|오픈채팅방|  HashMap, Implement  |2019 KAKAO BLIND RECRUITMENT|
+|Programmers|다트게임|  String, Implement   |2018 KAKAO BLIND RECRUITMENT|
+|Programmers|서울에서 김서방 찾기|      Implement       ||
+|Programmers|String 내 p와 y의 개수|      Implement       ||
+|Programmers|수박수박수박수박수박수?|      Implement       ||
+|Programmers|문자열을 정수로 바꾸기|      Implement       ||
+|Programmers|이상한 문자 만들기|      Implement       ||
+|Programmers|직사각형 별찍기|      Implement       ||
+|Programmers|콜라츠 추측|      Implement       ||
+|Programmers|x만큼 간격이 있는 n개의 숫자|      Implement       ||
+|Programmers|짝수와 홀수|      Implement       ||
+|Programmers|행렬의 덧셈|      Implement       ||
+|Programmers|평균 구하기|      Implement       ||
+|Programmers|정수 제곱근 판별|      Implement       ||
+|Programmers|더 맵게|    Priority Queue    ||
+|Programmers|게임 맵 최단거리|         BFS          |찾아라 프로그래밍 마에스터|
+|Programmers|프린터|   Queue, Implement   ||
+|Programmers|카카오프렌즈 컬러링북|         BFS          |2017 카카오코드 예선|
 |Programmers|프렌즈4블록|Implement, Brute Force|2018 KAKAO BLIND RECRUITMENT|
-|Programmers|올바른 괄호|Stack||
-|Programmers|땅따먹기|DP||
-|Programmers|타겟 넘버|DFS||
+|Programmers|올바른 괄호|        Stack         ||
+|Programmers|땅따먹기|          DP          ||
+|Programmers|타겟 넘버|         DFS          ||
 |Programmers|카펫|Brute Force, Implement||
-|Programmers|가장 큰 수|Greedy, Implement|
-|Programmers|전화번호 목록|Hash||
-|Programmers|네트워크|BFS, Graph||
-|Programmers|짝지어 제거하기|Stack|2017 팁스타운|
-|Programmers|메뉴 리뉴얼|HashMap, Combination|2021 KAKAO BLIND RECRUITMENT|
-|Programmers|124 나라의 숫자|Implement||
-|Programmers|JadenCase 문자열 만들기|Implement||
-|Programmers|큰 수 만들기|Implement||
-|Programmers|배달|Dijkstra, BFS|Summer/Winter Coding(~2018)|
-|Programmers|파일명 정렬|String, Implement|2018 KAKAO BLIND RECRUITMENT|
-|Programmers|2개 이하로 다른 비트|String, Implement|월간 코드 챌린지 시즌2|
-|Programmers|부족한 금액 계산하기|Implement|위클리 챌린지 1주차|
-|Programmers|최솟값 만들기|Implement||
-|Programmers|정수 내림차순으로 배치하기|Implement||
-|Programmers|최댓값과 최솟값|Implement||
-|Programmers|N개의 최소공배수|Math, Number Theory||
-|Programmers|최대공약수와 최소공배수|Math, Number Theory||
-|Programmers|약수의 합|Math, Number Theory||
-|Programmers|소수 찾기|Math, Number Theory||
-|Programmers|문자열 내 마음대로 정렬하기|Implement||
-|Programmers|숫자 문자열과 영단어|Implement, String||
-|Programmers|문자열 내림차순으로 배치하기|Implement, String||
-|Programmers|시저암호|Implement||
-|Programmers|상호평가|Implement|위클리 챌린지 2주차|
-|Programmers|직업군 추천하기|Implement|위클리 챌린지 4주차|
-|Programmers|영어 끝말잇기|Hash Set & Map|Summer/Winter Coding(~2018)|
-|Programmers|광고 삽입|Simulation|2021 KAKAO BLIND RECRUITMENT|
-|Programmers|방문 길이|Simulation|Summer/Winter Coding(~2018)|
-|Programmers|문자열 압축|String, Implement|2020 KAKAO BLIND RECRUITMENT|
-|Programmers|입실 퇴실|Simulation|위클리 챌린지 7주차|
-|Programmers|순위 검색|Bit Masking|2021 KAKAO BLIND RECRUITMENT|
-|Programmers|최소 직사각형|Implement|위클리 챌린지 8주차|
-|Programmers|복서 정렬하기|Implement|위클리 챌린지 6주차|
-|Programmers|모음사전|DP|위클리 챌린지 8주차|
-|Programmers|피로도|DFS|위클리 챌린지 12주차|
+|Programmers|가장 큰 수|  Greedy, Implement   |
+|Programmers|전화번호 목록|         Hash         ||
+|Programmers|네트워크|      BFS, Graph      ||
+|Programmers|짝지어 제거하기|        Stack         |2017 팁스타운|
+|Programmers|메뉴 리뉴얼| HashMap, Combination |2021 KAKAO BLIND RECRUITMENT|
+|Programmers|124 나라의 숫자|      Implement       ||
+|Programmers|JadenCase 문자열 만들기|      Implement       ||
+|Programmers|큰 수 만들기|      Implement       ||
+|Programmers|배달|    Dijkstra, BFS     |Summer/Winter Coding(~2018)|
+|Programmers|파일명 정렬|  String, Implement   |2018 KAKAO BLIND RECRUITMENT|
+|Programmers|2개 이하로 다른 비트|  String, Implement   |월간 코드 챌린지 시즌2|
+|Programmers|부족한 금액 계산하기|      Implement       |위클리 챌린지 1주차|
+|Programmers|최솟값 만들기|      Implement       ||
+|Programmers|정수 내림차순으로 배치하기|      Implement       ||
+|Programmers|최댓값과 최솟값|      Implement       ||
+|Programmers|N개의 최소공배수| Math, Number Theory  ||
+|Programmers|최대공약수와 최소공배수| Math, Number Theory  ||
+|Programmers|약수의 합| Math, Number Theory  ||
+|Programmers|소수 찾기| Math, Number Theory  ||
+|Programmers|문자열 내 마음대로 정렬하기|      Implement       ||
+|Programmers|숫자 문자열과 영단어|  Implement, String   ||
+|Programmers|문자열 내림차순으로 배치하기|  Implement, String   ||
+|Programmers|시저암호|      Implement       ||
+|Programmers|상호평가|      Implement       |위클리 챌린지 2주차|
+|Programmers|직업군 추천하기|      Implement       |위클리 챌린지 4주차|
+|Programmers|영어 끝말잇기|    Hash Set & Map    |Summer/Winter Coding(~2018)|
+|Programmers|광고 삽입|      Simulation      |2021 KAKAO BLIND RECRUITMENT|
+|Programmers|방문 길이|      Simulation      |Summer/Winter Coding(~2018)|
+|Programmers|문자열 압축|  String, Implement   |2020 KAKAO BLIND RECRUITMENT|
+|Programmers|입실 퇴실|      Simulation      |위클리 챌린지 7주차|
+|Programmers|순위 검색|     Bit Masking      |2021 KAKAO BLIND RECRUITMENT|
+|Programmers|최소 직사각형|      Implement       |위클리 챌린지 8주차|
+|Programmers|복서 정렬하기|      Implement       |위클리 챌린지 6주차|
+|Programmers|모음사전|          DP          |위클리 챌린지 8주차|
+|Programmers|피로도|         DFS          |위클리 챌린지 12주차|
 
 </details>
 
