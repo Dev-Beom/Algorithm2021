@@ -45,149 +45,150 @@
 <details>
     <summary>BOJ</summary>
 
-|         문제         |       제목        |                   유형                   | 비고  |
-|:------------------:|:---------------:|:--------------------------------------:|:---:|
-|      BOJ 1003      |     피보나치 함수     |                   DP                   |  ⁉  |
-|      BOJ 1010      |      다리 놓기      |                   DP                   ||
-|      BOJ 1026      |       보물        |                Sorting                 ||
-|      BOJ 1051      |     숫자 정사각형     |         Implement, Brute Force         ||
-|      BOJ 1094      |       막대기       |             Binary Search              ||
-|      BOJ 1158      |     요세푸스 문제     |                 Queue                  ||
-|      BOJ 1197      |    최소 스패닝 트리    |        MST, Kruskal, Union Find        ||
-|      BOJ 1292      |    쉽게 푸는 문제     |               Implement                ||
-|      BOJ 1300      |      K번째 수      |             Binary Search              ||
-|      BOJ 1302      |      베스트셀러      |             Hash Set & Map             ||
-|      BOJ 1389      | 케빈 베이컨의 6단계 법칙  |          Floyd Warshall, BFS           ||
-|      BOJ 1406      |       에디터       |                 Stack                  ||
-|      BOJ 1439      |       뒤집개       |                 Greedy                 ||
-|      BOJ 1461      |       도서관       |                 Greedy                 ||
-|      BOJ 1463      |       뒤집개       |                   DP                   | 💦  |
-|      BOJ 1475      |       방번호       |               Implement                ||
-|      BOJ 1504      |    특정한 최단 경로    |            Graph, Dijkstra             ||
-|      BOJ 1520      |      내리막길       |             Graph, DP, DFS             ||
-|      BOJ 1620      | 나는야 포켓몬 마스터 이다솜 |                HashMap                 ||
-|      BOJ 1655      |    가운데를 말해요     |             Priority Queue             ||
-|      BOJ 1697      |      숨바꼭질       |                  BFS                   ||
-|      BOJ 1715      |     카드 정렬하기     |         Greedy, Priority Queue         ||
-|      BOJ 1744      |      수 묶기       |                 Greedy                 ||
-|      BOJ 1753      |      최단경로       |        Dijkstra, Priority Queue        ||
-|      BOJ 1759      |     암호 만들기      |       Combination, Backtracking        ||
-|      BOJ 1874      |      스택 수열      |                 Stack                  ||
-|      BOJ 1990      |     소수인팰린드롬     |          Math, Number Theory           ||
-|      BOJ 1904      |      01타일       |                   DP                   ||
-|      BOJ 1916      |    최소비용 구하기     |        Dijkstra, Priority Queue        ||
-|      BOJ 1920      |      수 찾기       |             Binary Search              ||
-|      BOJ 1926      |       그림        |                  BFS                   ||
-|      BOJ 1927      |      최소 힙       |             Priority Queue             ||
-|      BOJ 1931      |     회의실 배정      |                 Greedy                 ||
-|      BOJ 1946      |      신입사원       |                 Greedy                 ||
-|      BOJ 1966      |    프린터 Queue    |         Queue, Priority Queue          ||
-|      BOJ 1976      |      여행가자       |               Graph, BFS               ||
-|      BOJ 1987      |       알파벳       |                  DFS                   ||
-|      BOJ 1991      |      트리 순회      |                  Tree                  ||
-|      BOJ 2075      |     N번째 큰 수     |             Priority Queue             ||
-|      BOJ 2109      |      순회강연       |                 Greedy                 ||
-|      BOJ 2164      |      카드 2       |                 Queue                  ||
-|      BOJ 2174      |    로봇 시뮬레이션     |               Simulation               ||
-|      BOJ 2212      |       센서        |                 Greedy                 ||
-|      BOJ 2407      |       조합        |            Combination, DP             ||
-|      BOJ 2457      |     공주님의 정원     |                 Greedy                 | 💦  |
-|      BOJ 2493      |        탑        |                 Stack                  ||
-|      BOJ 2563      |       색종이       |               Implement                ||
-|      BOJ 2564      |       경비원       |               Implement                ||
-|      BOJ 2573      |       빙산        |         Graph, BFS, Implement          ||
-|      BOJ 2577      |     숫자의 개수      |                 String                 ||
-|      BOJ 2578      |       빙고        |               Implement                ||
-|      BOJ 2583      |     영역 구하기      |                  BFS                   ||
-|      BOJ 2609      |  최대공약수와 최소공배수   |          Math, Number Theory           ||
-|      BOJ 2644      |      촌수계산       |                  BFS                   ||
-|      BOJ 2696      |     중앙값 구하기     |             Priority Queue             ||
-|      BOJ 2776      |       암기왕       |             Hash Set & Map             ||
-|      BOJ 2799      |      블라인드       |               Implement                ||
-|      BOJ 2839      |      설탕배달       |                   DP                   ||
-|      BOJ 2847      |   게임을 만든 동준이    |                 Greedy                 ||
-|      BOJ 2947      |      나무조각       |               Simulation               ||
-|      BOJ 2960      |   에라토스테네스의 체    |               Implement                ||
-|      BOJ 3055      |       탈출        |                  BFS                   ||
-|      BOJ 3107      |      IPv6       |           Implement, String            ||
-|      BOJ 3190      |        뱀        |               Implement                ||
-|      BOJ 3197      |     백조의 호수      |               Graph, BFS               ||
-|      BOJ 3425      |       고스택       |            Implement, Stack            ||
-|      BOJ 4179      |       불!        |                  BFS                   ||
-|      BOJ 4358      |       생태학       |             Hash Set & Map             ||
-|      BOJ 4796      |       캠핑        |                 Greedy                 ||
-|      BOJ 4963      |      섬의 개수      |                  BFS                   ||
-|      BOJ 5397      |       키로거       |                 Stack                  ||
-|      BOJ 5430      |       AC        |               Implement                ||
-|      BOJ 5567      |       결혼식       |      Implement, Graph Search, BFS      ||
-|      BOJ 5972      |      택배 배송      | Graph Search, Dijkstra, Priority Queue ||
-|      BOJ 6593      |      상범 빌딩      |               Graph, BFS               ||
-|      BOJ 6603      |       로또        |       Combination, Backtracking        ||
-|      BOJ 7576      |       토마토       |                  BFS                   ||
-|      BOJ 7562      |     나이트의 이동     |                  BFS                   ||
-|      BOJ 7785      |    회사에 있는 사람    |                HashSet                 ||
-|      BOJ 8979      |       올림픽       |               Implement                ||
-|      BOJ 9184      |    신나는 함수 실행    |                   DP                   ||
-|      BOJ 9461      |     파도반 수열      |                   DP                   ||
-|      BOJ 9625      |      BABBA      |                   DP                   ||
-|      BOJ 9663      |     N-Queen     |              Backtracking              | 💦  |
-|      BOJ 9935      |     문자열 폭발      |             String, Stack              ||
-|     BOJ 10026      |      적록색약       |                  BFS                   ||
-|     BOJ 10157      |      자리배정       |               Implement                ||
-|     BOJ 10807      |      개수 세기      |               Implement                ||
-|     BOJ 10814      |   나이순 Sorting   |                Sorting                 ||
-|     BOJ 10816      |     숫자 카드2      |                HashMap                 ||
-|     BOJ 10828      |      Stack      |                 Stack                  ||
-|     BOJ 10845      |      Queue      |                 Queue                  ||
-|     BOJ 10972      |      다음 순열      |              Permutation               ||
-|     BOJ 10973      |      이전 순열      |              Permutation               ||
-|     BOJ 11000      |     강의실 배정      |         Priority Queue, Greedy         ||
-|     BOJ 11047      |      동전 0       |                 Greedy                 ||
-|     BOJ 11170      |      0의 개수      |              Brute Force               ||
-|     BOJ 11279      |      최대 힙       |             Priority Queue             ||
-|     BOJ 11286      |      절댓값 힙      |             Priority Queue             ||
-|     BOJ 11399      |       ATM       |                 Greedy                 ||
-|     BOJ 11403      |      경로 찾기      |             Floyd Warshall             ||
-|     BOJ 11404      |      플로이드       |             Floyd Warshall             ||
-|     BOJ 11501      |       주식        |                 Greedy                 ||
-|     BOJ 11650      |     좌표 정렬하기     |                Sorting                 ||
-|     BOJ 11651      |    좌표 정렬하기2     |                Sorting                 ||
-|     BOJ 11724      |    연결 요소의 개수    |                  BFS                   ||
-|     BOJ 11866      |    요세푸스 문제 0    |                 Queue                  ||
-|     BOJ 13164      |     행복 유치원      |                 Greedy                 ||
-|     BOJ 13305      |       주유소       |                 Greedy                 | 💦  |
-|     BOJ 13335      |       트럭        |         Implement, Simulation          ||
-|     BOJ 13414      |      수강신청       |             Hash Set & Map             ||
-|     BOJ 13904      |       과제        |                 Greedy                 ||
-|     BOJ 14235      |    크리스마스 선물     |             Priority Queue             ||
-|     BOJ 14500      |      테트로미노      |         Brute Force, Implement         ||
-|     BOJ 14503      |     로봇 청소기      |         Implement, Simulation          ||
-|     BOJ 14719      |       빗물        |         Implement, Simulation          ||
-|     BOJ 14923      |      미로탈출       |               BFS, Graph               ||
-|     BOJ 14940      |     쉬운 최단거리     |               Graph, BFS               ||
-|     BOJ 15649      |     N과 M(1)     |              Backtracking              ||
-|     BOJ 15650      |     N과 M(2)     |              Backtracking              ||
-|     BOJ 15651      |     N과 M(3)     |              Backtracking              ||
-|     BOJ 15652      |     N과 M(4)     |              Backtracking              ||
-|     BOJ 15654      |     N과 M(5)     |              Backtracking              ||
-|     BOJ 15655      |     N과 M(6)     |              Backtracking              ||
-|     BOJ 15656      |     N과 M(7)     |              Backtracking              ||
-|     BOJ 15657      |     N과 M(8)     |              Backtracking              ||
-|     BOJ 15663      |     N과 M(9)     |              Backtracking              ||
-|     BOJ 15664      |    N과 M(10)     |              Backtracking              ||
-|     BOJ 15665      |    N과 M(11)     |              Backtracking              ||
-|     BOJ 15666      |    N과 M(12)     |              Backtracking              ||
-|     BOJ 15686      |      치킨 배달      |               Implement                | 👍  |
-|     BOJ 15903      |    카드 합체 놀이     |         Greedy, Priority Queue         ||
-|     BOJ 11652      |       카드        |              Brute Force               ||
-|     BOJ 16953      |     A -> B      |           Greedy, Graph, BFS           ||
-|     BOJ 17129      |  윌리암슨수액빨이딱따구리   |               Graph, BFS               ||
-|     BOJ 17219      |     비밀번호 찾기     |                HashMap                 ||
-|     BOJ 17298      |       오큰수       |                 Stack                  | 💦  |
-|     BOJ 17478      |   재귀함수가 뭔가요?    |          Recursion, Implement          ||
-|     BOJ 18352      |  특정 거리의 도시 찾기   |             Dijkstra, BFS              ||
-|     BOJ 18405      |     경쟁적 점염      |         Implement, BFS, Graph          ||
-|     BOJ 19640      |     화장실의 규칙     | Implement, Simulation, Priority Queue  ||
+|    문제     |       제목        |                   유형                   | 비고  |
+|:---------:|:---------------:|:--------------------------------------:|:---:|
+| BOJ 1003  |     피보나치 함수     |                   DP                   |  ⁉  |
+| BOJ 1010  |      다리 놓기      |                   DP                   ||
+| BOJ 1026  |       보물        |                Sorting                 ||
+| BOJ 1051  |     숫자 정사각형     |         Implement, Brute Force         ||
+| BOJ 1094  |       막대기       |             Binary Search              ||
+| BOJ 1158  |     요세푸스 문제     |                 Queue                  ||
+| BOJ 1197  |    최소 스패닝 트리    |        MST, Kruskal, Union Find        ||
+| BOJ 1292  |    쉽게 푸는 문제     |               Implement                ||
+| BOJ 1300  |      K번째 수      |             Binary Search              ||
+| BOJ 1302  |      베스트셀러      |             Hash Set & Map             ||
+| BOJ 1389  | 케빈 베이컨의 6단계 법칙  |          Floyd Warshall, BFS           ||
+| BOJ 1406  |       에디터       |                 Stack                  ||
+| BOJ 1439  |       뒤집개       |                 Greedy                 ||
+| BOJ 1461  |       도서관       |                 Greedy                 ||
+| BOJ 1463  |       뒤집개       |                   DP                   | 💦  |
+| BOJ 1475  |       방번호       |               Implement                ||
+| BOJ 1504  |    특정한 최단 경로    |            Graph, Dijkstra             ||
+| BOJ 1520  |      내리막길       |             Graph, DP, DFS             ||
+| BOJ 1620  | 나는야 포켓몬 마스터 이다솜 |                HashMap                 ||
+| BOJ 1655  |    가운데를 말해요     |             Priority Queue             ||
+| BOJ 1697  |      숨바꼭질       |                  BFS                   ||
+| BOJ 1715  |     카드 정렬하기     |         Greedy, Priority Queue         ||
+| BOJ 1744  |      수 묶기       |                 Greedy                 ||
+| BOJ 1753  |      최단경로       |        Dijkstra, Priority Queue        ||
+| BOJ 1759  |     암호 만들기      |       Combination, Backtracking        ||
+| BOJ 1874  |      스택 수열      |                 Stack                  ||
+| BOJ 1990  |     소수인팰린드롬     |          Math, Number Theory           ||
+| BOJ 1904  |      01타일       |                   DP                   ||
+| BOJ 1916  |    최소비용 구하기     |        Dijkstra, Priority Queue        ||
+| BOJ 1920  |      수 찾기       |             Binary Search              ||
+| BOJ 1926  |       그림        |                  BFS                   ||
+| BOJ 1927  |      최소 힙       |             Priority Queue             ||
+| BOJ 1931  |     회의실 배정      |                 Greedy                 ||
+| BOJ 1946  |      신입사원       |                 Greedy                 ||
+| BOJ 1966  |    프린터 Queue    |         Queue, Priority Queue          ||
+| BOJ 1976  |      여행가자       |               Graph, BFS               ||
+| BOJ 1987  |       알파벳       |                  DFS                   ||
+| BOJ 1991  |      트리 순회      |                  Tree                  ||
+| BOJ 2075  |     N번째 큰 수     |             Priority Queue             ||
+| BOJ 2109  |      순회강연       |                 Greedy                 ||
+| BOJ 2164  |      카드 2       |                 Queue                  ||
+| BOJ 2174  |    로봇 시뮬레이션     |               Simulation               ||
+| BOJ 2212  |       센서        |                 Greedy                 ||
+| BOJ 2407  |       조합        |            Combination, DP             ||
+| BOJ 2457  |     공주님의 정원     |                 Greedy                 | 💦  |
+| BOJ 2493  |        탑        |                 Stack                  ||
+| BOJ 2563  |       색종이       |               Implement                ||
+| BOJ 2564  |       경비원       |               Implement                ||
+| BOJ 2573  |       빙산        |         Graph, BFS, Implement          ||
+| BOJ 2577  |     숫자의 개수      |                 String                 ||
+| BOJ 2578  |       빙고        |               Implement                ||
+| BOJ 2583  |     영역 구하기      |                  BFS                   ||
+| BOJ 2609  |  최대공약수와 최소공배수   |          Math, Number Theory           ||
+| BOJ 2644  |      촌수계산       |                  BFS                   ||
+| BOJ 2696  |     중앙값 구하기     |             Priority Queue             ||
+| BOJ 2776  |       암기왕       |             Hash Set & Map             ||
+| BOJ 2799  |      블라인드       |               Implement                ||
+| BOJ 2839  |      설탕배달       |                   DP                   ||
+| BOJ 2847  |   게임을 만든 동준이    |                 Greedy                 ||
+| BOJ 2947  |      나무조각       |               Simulation               ||
+| BOJ 2960  |   에라토스테네스의 체    |               Implement                ||
+| BOJ 3055  |       탈출        |                  BFS                   ||
+| BOJ 3107  |      IPv6       |           Implement, String            ||
+| BOJ 3190  |        뱀        |               Implement                ||
+| BOJ 3197  |     백조의 호수      |               Graph, BFS               ||
+| BOJ 3425  |       고스택       |            Implement, Stack            ||
+| BOJ 4179  |       불!        |                  BFS                   ||
+| BOJ 4358  |       생태학       |             Hash Set & Map             ||
+| BOJ 4796  |       캠핑        |                 Greedy                 ||
+| BOJ 4963  |      섬의 개수      |                  BFS                   ||
+| BOJ 5397  |       키로거       |                 Stack                  ||
+| BOJ 5430  |       AC        |               Implement                ||
+| BOJ 5567  |       결혼식       |      Implement, Graph Search, BFS      ||
+| BOJ 5972  |      택배 배송      | Graph Search, Dijkstra, Priority Queue ||
+| BOJ 6593  |      상범 빌딩      |               Graph, BFS               ||
+| BOJ 6603  |       로또        |       Combination, Backtracking        ||
+| BOJ 7576  |       토마토       |                  BFS                   ||
+| BOJ 7562  |     나이트의 이동     |                  BFS                   ||
+| BOJ 7785  |    회사에 있는 사람    |                HashSet                 ||
+| BOJ 8979  |       올림픽       |               Implement                ||
+| BOJ 9184  |    신나는 함수 실행    |                   DP                   ||
+| BOJ 9461  |     파도반 수열      |                   DP                   ||
+| BOJ 9625  |      BABBA      |                   DP                   ||
+| BOJ 9663  |     N-Queen     |              Backtracking              | 💦  |
+| BOJ 9935  |     문자열 폭발      |             String, Stack              ||
+| BOJ 10026 |      적록색약       |                  BFS                   ||
+| BOJ 10157 |      자리배정       |               Implement                ||
+| BOJ 10807 |      개수 세기      |               Implement                ||
+| BOJ 10814 |   나이순 Sorting   |                Sorting                 ||
+| BOJ 10816 |     숫자 카드2      |                HashMap                 ||
+| BOJ 10828 |      Stack      |                 Stack                  ||
+| BOJ 10845 |      Queue      |                 Queue                  ||
+| BOJ 10972 |      다음 순열      |              Permutation               ||
+| BOJ 10973 |      이전 순열      |              Permutation               ||
+| BOJ 11000 |     강의실 배정      |         Priority Queue, Greedy         ||
+| BOJ 11047 |      동전 0       |                 Greedy                 ||
+| BOJ 11170 |      0의 개수      |              Brute Force               ||
+| BOJ 11279 |      최대 힙       |             Priority Queue             ||
+| BOJ 11286 |      절댓값 힙      |             Priority Queue             ||
+| BOJ 11399 |       ATM       |                 Greedy                 ||
+| BOJ 11403 |      경로 찾기      |             Floyd Warshall             ||
+| BOJ 11404 |      플로이드       |             Floyd Warshall             ||
+| BOJ 11501 |       주식        |                 Greedy                 ||
+| BOJ 11559 |    PuyoPuyo     |   Implement, Simulation, BFS, Graph    ||
+| BOJ 11650 |     좌표 정렬하기     |                Sorting                 ||
+| BOJ 11651 |    좌표 정렬하기2     |                Sorting                 ||
+| BOJ 11724 |    연결 요소의 개수    |                  BFS                   ||
+| BOJ 11866 |    요세푸스 문제 0    |                 Queue                  ||
+| BOJ 13164 |     행복 유치원      |                 Greedy                 ||
+| BOJ 13305 |       주유소       |                 Greedy                 | 💦  |
+| BOJ 13335 |       트럭        |         Implement, Simulation          ||
+| BOJ 13414 |      수강신청       |             Hash Set & Map             ||
+| BOJ 13904 |       과제        |                 Greedy                 ||
+| BOJ 14235 |    크리스마스 선물     |             Priority Queue             ||
+| BOJ 14500 |      테트로미노      |         Brute Force, Implement         ||
+| BOJ 14503 |     로봇 청소기      |         Implement, Simulation          ||
+| BOJ 14719 |       빗물        |         Implement, Simulation          ||
+| BOJ 14923 |      미로탈출       |               BFS, Graph               ||
+| BOJ 14940 |     쉬운 최단거리     |               Graph, BFS               ||
+| BOJ 15649 |     N과 M(1)     |              Backtracking              ||
+| BOJ 15650 |     N과 M(2)     |              Backtracking              ||
+| BOJ 15651 |     N과 M(3)     |              Backtracking              ||
+| BOJ 15652 |     N과 M(4)     |              Backtracking              ||
+| BOJ 15654 |     N과 M(5)     |              Backtracking              ||
+| BOJ 15655 |     N과 M(6)     |              Backtracking              ||
+| BOJ 15656 |     N과 M(7)     |              Backtracking              ||
+| BOJ 15657 |     N과 M(8)     |              Backtracking              ||
+| BOJ 15663 |     N과 M(9)     |              Backtracking              ||
+| BOJ 15664 |    N과 M(10)     |              Backtracking              ||
+| BOJ 15665 |    N과 M(11)     |              Backtracking              ||
+| BOJ 15666 |    N과 M(12)     |              Backtracking              ||
+| BOJ 15686 |      치킨 배달      |               Implement                | 👍  |
+| BOJ 15903 |    카드 합체 놀이     |         Greedy, Priority Queue         ||
+| BOJ 11652 |       카드        |              Brute Force               ||
+| BOJ 16953 |     A -> B      |           Greedy, Graph, BFS           ||
+| BOJ 17129 |  윌리암슨수액빨이딱따구리   |               Graph, BFS               ||
+| BOJ 17219 |     비밀번호 찾기     |                HashMap                 ||
+| BOJ 17298 |       오큰수       |                 Stack                  | 💦  |
+| BOJ 17478 |   재귀함수가 뭔가요?    |          Recursion, Implement          ||
+| BOJ 18352 |  특정 거리의 도시 찾기   |             Dijkstra, BFS              ||
+| BOJ 18405 |     경쟁적 점염      |         Implement, BFS, Graph          ||
+| BOJ 19640 |     화장실의 규칙     | Implement, Simulation, Priority Queue  ||
 
 </details>
 
