@@ -6,10 +6,10 @@
 
 #### 문제 풀이집 라벨 규칙
 
-| Low Level | Medium Level | High Level |
-|:------:|:------:|:------:|
-|백준 실버 5 ~ 1|백준 골드 5 ~ 3|백준 골드 2 이상|
-|프로그래머스 Level 1|프로그래머스 Level 2|프로그래머스 Level 3 이상|
+|   Low Level    |  Medium Level  |    High Level     |
+|:--------------:|:--------------:|:-----------------:|
+|  백준 실버 5 ~ 1   |  백준 골드 5 ~ 3   |    백준 골드 2 이상     |
+| 프로그래머스 Level 1 | 프로그래머스 Level 2 | 프로그래머스 Level 3 이상 |
 
 ## Introduce
 
@@ -155,6 +155,7 @@
 | BOJ 11651 |    좌표 정렬하기2     |                Sorting                 ||
 | BOJ 11724 |    연결 요소의 개수    |                  BFS                   ||
 | BOJ 11866 |    요세푸스 문제 0    |                 Queue                  ||
+| BOJ 12757 |    전설의 JBNU     |     Binary Search, Hash Set & Map      ||
 | BOJ 13164 |     행복 유치원      |                 Greedy                 ||
 | BOJ 13305 |       주유소       |                 Greedy                 | 💦  |
 | BOJ 13335 |       트럭        |         Implement, Simulation          ||
