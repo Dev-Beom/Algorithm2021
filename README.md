@@ -156,6 +156,7 @@
 | BOJ 11724 |    연결 요소의 개수    |                   BFS                   ||
 | BOJ 11866 |    요세푸스 문제 0    |                  Queue                  ||
 | BOJ 12757 |    전설의 JBNU     |      Binary Search, Hash Set & Map      ||
+| BOJ 12904 |      A와 B       |        Implement, Greedy, String        ||
 | BOJ 13164 |     행복 유치원      |                 Greedy                  ||
 | BOJ 13305 |       주유소       |                 Greedy                  | 💦  |
 | BOJ 13335 |       트럭        |          Implement, Simulation          ||
