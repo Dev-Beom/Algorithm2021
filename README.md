@@ -107,6 +107,7 @@
 | BOJ 2799  |      블라인드       |                Implement                ||
 | BOJ 2839  |      설탕배달       |                   DP                    ||
 | BOJ 2847  |   게임을 만든 동준이    |                 Greedy                  ||
+|BOJ 2933|미네랄|Implement, Simulation, Graph, BFS||
 | BOJ 2947  |      나무조각       |               Simulation                ||
 | BOJ 2960  |   에라토스테네스의 체    |                Implement                ||
 | BOJ 3055  |       탈출        |                   BFS                   ||
