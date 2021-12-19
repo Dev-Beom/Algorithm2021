@@ -86,6 +86,7 @@
 | BOJ 1976  |      여행가자       |               Graph, BFS                ||
 | BOJ 1987  |       알파벳       |                   DFS                   ||
 | BOJ 1991  |      트리 순회      |                  Tree                   ||
+| BOJ 2023  |     신기한 소수      |       Number Theory, Backtracking       ||
 | BOJ 2075  |     N번째 큰 수     |             Priority Queue              ||
 | BOJ 2109  |      순회강연       |                 Greedy                  ||
 | BOJ 2164  |      카드 2       |                  Queue                  ||
