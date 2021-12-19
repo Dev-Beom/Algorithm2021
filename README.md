@@ -107,7 +107,7 @@
 | BOJ 2799  |      블라인드       |                Implement                ||
 | BOJ 2839  |      설탕배달       |                   DP                    ||
 | BOJ 2847  |   게임을 만든 동준이    |                 Greedy                  ||
-|BOJ 2933|미네랄|Implement, Simulation, Graph, BFS||
+| BOJ 2933  |       미네랄       |    Implement, Simulation, Graph, BFS    ||
 | BOJ 2947  |      나무조각       |               Simulation                ||
 | BOJ 2960  |   에라토스테네스의 체    |                Implement                ||
 | BOJ 3055  |       탈출        |                   BFS                   ||
@@ -158,6 +158,7 @@
 | BOJ 11724 |    연결 요소의 개수    |                   BFS                   ||
 | BOJ 11866 |    요세푸스 문제 0    |                  Queue                  ||
 | BOJ 12757 |    전설의 JBNU     |      Binary Search, Hash Set & Map      ||
+| BOJ 12851 |     숨바꼭질 2      |               BFS, Graph                ||
 | BOJ 12904 |      A와 B       |        Implement, Greedy, String        ||
 | BOJ 13164 |     행복 유치원      |                 Greedy                  ||
 | BOJ 13305 |       주유소       |                 Greedy                  | 💦  |
