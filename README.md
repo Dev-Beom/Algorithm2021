@@ -54,6 +54,7 @@
 | BOJ 1094  |       막대기       |              Binary Search              ||
 | BOJ 1158  |     요세푸스 문제     |                  Queue                  ||
 | BOJ 1197  |    최소 스패닝 트리    |        MST, Kruskal, Union Find         ||
+| BOJ 1261  |      알고스팟       |          BFS, Dijkstra, Graph           ||
 | BOJ 1292  |    쉽게 푸는 문제     |                Implement                ||
 | BOJ 1300  |      K번째 수      |              Binary Search              ||
 | BOJ 1302  |      베스트셀러      |             Hash Set & Map              ||
