@@ -92,6 +92,7 @@
 | BOJ 2164  |      카드 2       |                  Queue                  ||
 | BOJ 2174  |    로봇 시뮬레이션     |               Simulation                ||
 | BOJ 2212  |       센서        |                 Greedy                  ||
+| BOJ 2293  |      동전 1       |                   DP                    ||
 | BOJ 2407  |       조합        |             Combination, DP             ||
 | BOJ 2457  |     공주님의 정원     |                 Greedy                  | 💦  |
 | BOJ 2493  |        탑        |                  Stack                  ||
