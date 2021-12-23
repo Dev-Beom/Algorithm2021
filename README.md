@@ -72,6 +72,7 @@
 | BOJ 1697  |      숨바꼭질       |                   BFS                   ||
 | BOJ 1715  |     카드 정렬하기     |         Greedy, Priority Queue          ||
 | BOJ 1744  |      수 묶기       |                 Greedy                  ||
+| BOJ 1747  |     소수&팰린드롬     |       Number Theory, Brute Force        ||
 | BOJ 1753  |      최단경로       |        Dijkstra, Priority Queue         ||
 | BOJ 1759  |     암호 만들기      |        Combination, Backtracking        ||
 | BOJ 1874  |      스택 수열      |                  Stack                  ||
