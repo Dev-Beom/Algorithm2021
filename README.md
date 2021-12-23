@@ -86,6 +86,7 @@
 | BOJ 1947  |      선물 전달      |                   DP                    ||
 | BOJ 1946  |      신입사원       |                 Greedy                  ||
 | BOJ 1966  |    프린터 Queue    |          Queue, Priority Queue          ||
+| BOJ 1972  |     놀라운 문자열     |    Implement, String, Hash Set & Map    ||
 | BOJ 1976  |      여행가자       |               Graph, BFS                ||
 | BOJ 1987  |       알파벳       |                   DFS                   ||
 | BOJ 1991  |      트리 순회      |                  Tree                   ||
