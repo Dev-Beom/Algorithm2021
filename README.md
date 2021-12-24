@@ -206,6 +206,7 @@
 | BOJ 18352 |  특정 거리의 도시 찾기   |              Dijkstra, BFS              ||
 | BOJ 18405 |     경쟁적 점염      |          Implement, BFS, Graph          ||
 | BOJ 19640 |     화장실의 규칙     |  Implement, Simulation, Priority Queue  ||
+| BOJ 21938 |      영상처리       |               Graph, BFS                ||
 
 </details>
 
