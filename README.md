@@ -303,6 +303,7 @@
 | Programmers |     없는 숫자 더하기     |       Implement        |           월간 코드 챌린지 시즌3           |
 | Programmers |      다음 큰 숫자      |       Implement        ||
 | Programmers |     디스크 컨트롤러      |   Greedy, Simulation   ||
+| Programmers |       소수 찾기       |  Math, Number Theory   ||
 
 </details>
 
