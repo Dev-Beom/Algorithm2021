@@ -136,6 +136,7 @@
 | BOJ 7576  |       토마토       |                   BFS                   ||
 | BOJ 7562  |     나이트의 이동     |                   BFS                   ||
 | BOJ 7785  |    회사에 있는 사람    |                 HashSet                 ||
+| BOJ 8972  |     미친 아두이노     |          Implement, Simulation          ||
 | BOJ 8979  |       올림픽       |                Implement                ||
 | BOJ 9184  |    신나는 함수 실행    |                   DP                    ||
 | BOJ 9461  |     파도반 수열      |                   DP                    ||
