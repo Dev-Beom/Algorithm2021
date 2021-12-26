@@ -133,6 +133,7 @@
 | BOJ 5972  |      택배 배송      | Graph Search, Dijkstra, Priority Queue  ||
 | BOJ 6593  |      상범 빌딩      |               Graph, BFS                ||
 | BOJ 6603  |       로또        |        Combination, Backtracking        ||
+| BOJ 7490  |      0 만들기      |         Backtracking, Implement         ||
 | BOJ 7576  |       토마토       |                   BFS                   ||
 | BOJ 7562  |     나이트의 이동     |                   BFS                   ||
 | BOJ 7785  |    회사에 있는 사람    |                 HashSet                 ||
@@ -306,6 +307,7 @@
 | Programmers |      다음 큰 숫자      |       Implement        ||
 | Programmers |     디스크 컨트롤러      |   Greedy, Simulation   ||
 | Programmers |       소수 찾기       |  Math, Number Theory   ||
+| Programmers |     합승 택시 요금      | Graph, Floyd-Warshall  |   2021 KAKAO BLIND RECRUITMENT    |
 
 </details>
 
