@@ -138,6 +138,7 @@
 | BOJ 7785  |    회사에 있는 사람    |                 HashSet                 ||
 | BOJ 8972  |     미친 아두이노     |          Implement, Simulation          ||
 | BOJ 8979  |       올림픽       |                Implement                ||
+| BOJ 9095  |   1, 2, 3 더하기   |                   DP                    ||
 | BOJ 9184  |    신나는 함수 실행    |                   DP                    ||
 | BOJ 9461  |     파도반 수열      |                   DP                    ||
 | BOJ 9625  |      BABBA      |                   DP                    ||
