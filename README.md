@@ -201,6 +201,7 @@
 | BOJ 15686 |      치킨 배달      |                Implement                | 👍  |
 | BOJ 15903 |    카드 합체 놀이     |         Greedy, Priority Queue          ||
 | BOJ 11652 |       카드        |               Brute Force               ||
+| BOJ 16938 |      캠프 준비      | Brute Force, Combination, Backtracking  ||
 | BOJ 16953 |     A -> B      |           Greedy, Graph, BFS            ||
 | BOJ 17129 |  윌리암슨수액빨이딱따구리   |               Graph, BFS                ||
 | BOJ 17219 |     비밀번호 찾기     |                 HashMap                 ||
