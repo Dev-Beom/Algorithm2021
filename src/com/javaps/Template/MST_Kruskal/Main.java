@@ -61,7 +61,7 @@ public class Main {
         visited = new boolean[N + 1];
         result = 0;
 
-        priorityQueue = new PriorityQueue<Node>();
+        priorityQueue = new PriorityQueue<>();
 
         for (int i = 0; i < E; i++) {
             StringTokenizer st = new StringTokenizer(br.readLine());

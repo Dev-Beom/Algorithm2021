@@ -94,9 +94,9 @@ public class Main {
             int currentNode = queue.poll(); // 최초 currentNode 는 1
             visited[currentNode] = true;    // 해당 노드 방문처리해서 한 번 방문해서 간선이 연결된 노드는 다시 처리하지 않음
             tempList = graph[currentNode];  // nodeList[1] = tempList = [2번노드, 3번노드, 4번노드]
-            for (int i = 0; i < tempList.size(); i++) {
-                if (!visited[tempList.get(i).end]) {
-                    priorityQueue.add(tempList.get(i)); //  현재 노드에 연결된 모든 간선을 우선순위큐에 추가
+            for (Node node : tempList) {
+                if (!visited[node.end]) {
+                    priorityQueue.add(node); //  현재 노드에 연결된 모든 간선을 우선순위큐에 추가
                 }
             }
 
