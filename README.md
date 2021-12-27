@@ -128,6 +128,7 @@
 | BOJ 4358  |       생태학       |             Hash Set & Map              ||
 | BOJ 4796  |       캠핑        |                 Greedy                  ||
 | BOJ 4963  |      섬의 개수      |                   BFS                   ||
+| BOJ 5052  |     전화번호 목록     |              String, Sort               ||
 | BOJ 5397  |       키로거       |                  Stack                  ||
 | BOJ 5430  |       AC        |                Implement                ||
 | BOJ 5567  |       결혼식       |      Implement, Graph Search, BFS       ||
