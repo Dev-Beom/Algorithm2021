@@ -67,6 +67,7 @@
 | BOJ 1292  |    쉽게 푸는 문제     |                Implement                ||
 | BOJ 1300  |      K번째 수      |              Binary Search              ||
 | BOJ 1302  |      베스트셀러      |             Hash Set & Map              ||
+| BOJ 1339  |      단어 수학      |           Brute Force, Greedy           ||
 | BOJ 1343  |      폴리오미노      |                 Greedy                  ||
 | BOJ 1389  | 케빈 베이컨의 6단계 법칙  |           Floyd Warshall, BFS           ||
 | BOJ 1406  |       에디터       |                  Stack                  ||
