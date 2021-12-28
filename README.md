@@ -133,6 +133,7 @@
 | BOJ 3190  |        뱀        |                Implement                ||
 | BOJ 3197  |     백조의 호수      |               Graph, BFS                ||
 | BOJ 3425  |       고스택       |            Implement, Stack             ||
+| BOJ 3865  |       학회원       |       String, DFS, Hash Set & Map       ||
 | BOJ 4134  |      다음 소수      |              Number Theory              ||
 | BOJ 4179  |       불!        |                   BFS                   ||
 | BOJ 4358  |       생태학       |             Hash Set & Map              ||
