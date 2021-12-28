@@ -191,6 +191,7 @@
 | BOJ 13549 |     숨바꼭질 3      |          BFS, Graph, Dijkstra           ||
 | BOJ 13904 |       과제        |                 Greedy                  ||
 | BOJ 14235 |    크리스마스 선물     |             Priority Queue              ||
+| BOJ 14490 |       백대열       |              Math, String               ||
 | BOJ 14500 |      테트로미노      |         Brute Force, Implement          ||
 | BOJ 14503 |     로봇 청소기      |          Implement, Simulation          ||
 | BOJ 14719 |       빗물        |          Implement, Simulation          ||
