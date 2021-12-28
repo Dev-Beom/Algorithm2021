@@ -13,14 +13,18 @@
 
 ## Introduce
 
-### 글미 16 코딩 챌린지
+
+
+
+<details>
+    <summary> 글미 16 코딩 챌린지</summary>
 
 - 2021년 6월 5일부터 ~ 2021년 9월 1일
 - 하루에 평균 2 ~ 3 문제씩, 개인당 200개 이상
 - 인정 범위 및 최소 갯수
     - BOJ(실5 ~ 골1) **122개**
     - Programmers(1 ~ 3 level SQL 제외 java/python/c++) **85개**
-- 9월 1일까지 해당 사항 달성 실패시 10만원빵🤲🤲🤲🤲🤲  
+- 9월 1일까지 해당 사항 달성 실패시 10만원
   **참여자**
 
 ```이영범(20210605 ~ 0901) https://github.com/Sinlicon-Valley/Algorithm2021  
@@ -32,6 +36,11 @@
 이영훈(20210610 ~ 0906) https://github.com/dudgns5845/AlgorithmStudy + 5일  
 황상진(20210627 ~ 0922) https://github.com/Hwang-Sangjin/Algorithm + 21일  
 ```
+
+</details>
+
+
+
 
 # 링크 모음
 
@@ -184,6 +193,7 @@
 | BOJ 14500 |      테트로미노      |         Brute Force, Implement          ||
 | BOJ 14503 |     로봇 청소기      |          Implement, Simulation          ||
 | BOJ 14719 |       빗물        |          Implement, Simulation          ||
+| BOJ 14725 |       개미굴       |              Trie, String               ||
 | BOJ 14923 |      미로탈출       |               BFS, Graph                ||
 | BOJ 14940 |     쉬운 최단거리     |               Graph, BFS                ||
 | BOJ 15649 |     N과 M(1)     |              Backtracking               ||
